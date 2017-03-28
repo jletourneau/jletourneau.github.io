@@ -1,0 +1,2128 @@
+TCA,RundleQPct,Rundle,Matches,W,L,T
+6,0.728,"A Alpine",89,72,0,17
+5,0.728,"A Alpine",220,124,64,32
+4,0.728,"A Alpine",201,66,100,35
+3,0.728,"A Alpine",105,12,78,15
+2,0.728,"A Alpine",25,0,22,3
+1,0.728,"A Alpine",1,0,1,0
+0,0.728,"A Alpine",1,0,1,0
+6,0.756,"A Arcadia",103,78,0,25
+5,0.756,"A Arcadia",248,125,63,60
+4,0.756,"A Arcadia",201,53,118,30
+3,0.756,"A Arcadia",71,9,57,5
+2,0.756,"A Arcadia",13,0,13,0
+1,0.756,"A Arcadia",5,0,5,0
+6,0.732,"A Archipelago",135,100,0,35
+5,0.732,"A Archipelago",196,103,59,34
+4,0.732,"A Archipelago",168,47,104,17
+3,0.732,"A Archipelago",96,20,62,14
+2,0.732,"A Archipelago",44,3,37,4
+1,0.732,"A Archipelago",9,0,9,0
+6,0.712,"A Atlantic",99,78,0,21
+5,0.712,"A Atlantic",203,119,60,24
+4,0.712,"A Atlantic",179,69,90,20
+3,0.712,"A Atlantic",102,16,76,10
+2,0.712,"A Atlantic",32,3,26,3
+1,0.712,"A Atlantic",2,0,2,0
+0,0.712,"A Atlantic",14,1,13,0
+6,0.804,"A Badlands",174,125,0,49
+5,0.804,"A Badlands",260,107,105,48
+4,0.804,"A Badlands",151,29,107,15
+3,0.804,"A Badlands",52,4,40,8
+2,0.804,"A Badlands",10,0,10,0
+1,0.804,"A Badlands",1,0,1,0
+6,0.819,"A Bayou",194,120,0,74
+5,0.819,"A Bayou",258,99,95,64
+4,0.819,"A Bayou",144,24,106,14
+3,0.819,"A Bayou",39,5,34,0
+2,0.819,"A Bayou",8,0,6,2
+1,0.819,"A Bayou",1,0,1,0
+6,0.760,"A Cascade",114,102,0,12
+5,0.760,"A Cascade",241,121,68,52
+4,0.760,"A Cascade",172,40,107,25
+3,0.760,"A Cascade",82,14,62,6
+2,0.760,"A Cascade",14,0,13,1
+1,0.760,"A Cascade",3,0,3,0
+6,0.792,"A Central",163,121,0,42
+5,0.792,"A Central",235,108,83,44
+4,0.792,"A Central",166,33,106,27
+3,0.792,"A Central",52,4,45,3
+2,0.792,"A Central",12,0,12,0
+1,0.792,"A Central",3,0,3,0
+6,0.731,"A Coastal",120,82,0,38
+5,0.731,"A Coastal",236,129,70,37
+4,0.731,"A Coastal",208,64,113,31
+3,0.731,"A Coastal",86,15,61,10
+2,0.731,"A Coastal",23,2,21,0
+1,0.731,"A Coastal",6,0,6,0
+0,0.731,"A Coastal",15,0,15,0
+6,0.767,"A Continental",141,95,0,46
+5,0.767,"A Continental",255,120,88,47
+4,0.767,"A Continental",143,42,86,15
+3,0.767,"A Continental",65,8,50,7
+2,0.767,"A Continental",14,1,12,1
+1,0.767,"A Continental",2,0,2,0
+0,0.767,"A Continental",14,0,14,0
+6,0.716,"A Corridor",84,66,0,18
+5,0.716,"A Corridor",207,116,43,48
+4,0.716,"A Corridor",219,67,108,44
+3,0.716,"A Corridor",97,13,74,10
+2,0.716,"A Corridor",28,2,24,2
+1,0.716,"A Corridor",10,0,10,0
+6,0.769,"A Fjord",138,104,0,34
+5,0.769,"A Fjord",276,133,91,52
+4,0.769,"A Fjord",183,42,115,26
+3,0.769,"A Fjord",74,9,57,8
+2,0.769,"A Fjord",22,1,19,2
+1,0.769,"A Fjord",2,0,2,0
+6,0.796,"A Frontier",169,113,0,56
+5,0.796,"A Frontier",245,109,92,44
+4,0.796,"A Frontier",155,41,99,15
+3,0.796,"A Frontier",59,2,52,5
+2,0.796,"A Frontier",11,0,11,0
+1,0.796,"A Frontier",2,0,2,0
+6,0.715,"A Glacier",80,63,0,17
+5,0.715,"A Glacier",217,124,50,43
+4,0.715,"A Glacier",195,60,95,40
+3,0.715,"A Glacier",107,19,77,11
+2,0.715,"A Glacier",35,1,29,5
+1,0.715,"A Glacier",5,0,5,0
+6,0.725,"A Highland",96,71,0,25
+5,0.725,"A Highland",210,108,47,55
+4,0.725,"A Highland",198,70,100,28
+3,0.725,"A Highland",104,16,79,9
+2,0.725,"A Highland",29,0,26,3
+1,0.725,"A Highland",4,0,4,0
+0,0.725,"A Highland",1,0,1,0
+6,0.800,"A Horizon",183,116,0,67
+5,0.800,"A Horizon",273,124,108,41
+4,0.800,"A Horizon",170,41,111,18
+3,0.800,"A Horizon",45,3,41,1
+2,0.800,"A Horizon",18,2,15,1
+1,0.800,"A Horizon",2,0,2,0
+6,0.763,"A Juniper",134,106,0,28
+5,0.763,"A Juniper",226,108,81,37
+4,0.763,"A Juniper",182,48,101,33
+3,0.763,"A Juniper",80,6,62,12
+2,0.763,"A Juniper",14,2,12,0
+1,0.763,"A Juniper",3,0,3,0
+0,0.763,"A Juniper",2,0,2,0
+6,0.779,"A Laguna",157,100,0,57
+5,0.779,"A Laguna",230,101,82,47
+4,0.779,"A Laguna",158,43,88,27
+3,0.779,"A Laguna",73,11,56,6
+2,0.779,"A Laguna",15,1,13,1
+1,0.779,"A Laguna",4,0,4,0
+6,0.777,"A Magnolia",146,109,0,37
+5,0.777,"A Magnolia",239,111,88,40
+4,0.777,"A Magnolia",180,42,114,24
+3,0.777,"A Magnolia",60,8,47,5
+2,0.777,"A Magnolia",18,1,16,1
+1,0.777,"A Magnolia",3,0,2,1
+6,0.743,"A Maritime",111,89,0,22
+5,0.743,"A Maritime",242,127,54,61
+4,0.743,"A Maritime",216,43,118,55
+3,0.743,"A Maritime",89,12,66,11
+2,0.743,"A Maritime",24,2,19,3
+1,0.743,"A Maritime",4,0,4,0
+6,0.720,"A Memorial",101,80,0,21
+5,0.720,"A Memorial",211,117,50,44
+4,0.720,"A Memorial",199,59,111,29
+3,0.720,"A Memorial",89,14,69,6
+2,0.720,"A Memorial",30,4,24,2
+1,0.720,"A Memorial",11,0,11,0
+0,0.720,"A Memorial",6,0,6,0
+6,0.714,"A Meridian",88,72,0,16
+5,0.714,"A Meridian",241,128,66,47
+4,0.714,"A Meridian",207,71,102,34
+3,0.714,"A Meridian",109,22,82,5
+2,0.714,"A Meridian",47,3,38,6
+1,0.714,"A Meridian",4,0,4,0
+0,0.714,"A Meridian",1,0,1,0
+6,0.721,"A Metro",117,93,0,24
+5,0.721,"A Metro",235,135,68,32
+4,0.721,"A Metro",212,68,99,45
+3,0.721,"A Metro",119,18,86,15
+2,0.721,"A Metro",45,1,41,3
+1,0.721,"A Metro",5,0,4,1
+0,0.721,"A Metro",1,0,1,0
+6,0.793,"A Midland",152,101,0,51
+5,0.793,"A Midland",258,106,77,75
+4,0.793,"A Midland",169,37,106,26
+3,0.793,"A Midland",50,4,44,2
+2,0.793,"A Midland",12,0,12,0
+1,0.793,"A Midland",1,0,1,0
+6,0.737,"A Morningstar",117,86,0,31
+5,0.737,"A Morningstar",208,120,56,32
+4,0.737,"A Morningstar",188,54,109,25
+3,0.737,"A Morningstar",90,15,71,4
+2,0.737,"A Morningstar",31,3,26,2
+1,0.737,"A Morningstar",7,0,7,0
+6,0.748,"A Pacific",147,104,0,43
+5,0.748,"A Pacific",220,109,65,46
+4,0.748,"A Pacific",182,52,102,28
+3,0.748,"A Pacific",93,20,62,11
+2,0.748,"A Pacific",31,1,30,0
+1,0.748,"A Pacific",6,0,6,0
+0,0.748,"A Pacific",2,0,2,0
+6,0.776,"A Piedmont",151,116,0,35
+5,0.776,"A Piedmont",239,108,90,41
+4,0.776,"A Piedmont",157,42,99,16
+3,0.776,"A Piedmont",73,8,57,8
+2,0.776,"A Piedmont",18,1,17,0
+1,0.776,"A Piedmont",4,0,4,0
+6,0.718,"A Plaza",95,71,0,24
+5,0.718,"A Plaza",205,119,63,23
+4,0.718,"A Plaza",199,64,93,42
+3,0.718,"A Plaza",104,16,77,11
+2,0.718,"A Plaza",29,2,22,5
+1,0.718,"A Plaza",6,0,5,1
+0,0.718,"A Plaza",4,0,4,0
+6,0.757,"A Prairie",146,111,0,35
+5,0.757,"A Prairie",299,145,100,54
+4,0.757,"A Prairie",218,67,121,30
+3,0.757,"A Prairie",91,7,67,17
+2,0.757,"A Prairie",30,2,28,0
+1,0.757,"A Prairie",4,0,4,0
+6,0.697,"A Seaboard",75,60,0,15
+5,0.697,"A Seaboard",204,118,49,37
+4,0.697,"A Seaboard",234,86,111,37
+3,0.697,"A Seaboard",137,25,93,19
+2,0.697,"A Seaboard",37,3,27,7
+1,0.697,"A Seaboard",5,0,4,1
+6,0.728,"A Sequoia",92,75,0,17
+5,0.728,"A Sequoia",216,116,60,40
+4,0.728,"A Sequoia",219,63,110,46
+3,0.728,"A Sequoia",86,11,62,13
+2,0.728,"A Sequoia",19,1,16,2
+1,0.728,"A Sequoia",12,0,12,0
+0,0.728,"A Sequoia",1,0,1,0
+6,0.720,"A Sierra",88,75,0,13
+5,0.720,"A Sierra",214,123,55,36
+4,0.720,"A Sierra",203,70,109,24
+3,0.720,"A Sierra",101,15,80,6
+2,0.720,"A Sierra",29,2,26,1
+1,0.720,"A Sierra",7,0,7,0
+0,0.720,"A Sierra",1,0,1,0
+6,0.766,"A Skyline",132,102,0,30
+5,0.766,"A Skyline",245,125,85,35
+4,0.766,"A Skyline",165,35,99,31
+3,0.766,"A Skyline",73,9,56,8
+2,0.766,"A Skyline",23,1,20,2
+1,0.766,"A Skyline",3,0,3,0
+6,0.748,"A Sugarloaf",126,85,0,41
+5,0.748,"A Sugarloaf",227,120,79,28
+4,0.748,"A Sugarloaf",168,46,87,35
+3,0.748,"A Sugarloaf",86,14,62,10
+2,0.748,"A Sugarloaf",28,2,25,1
+1,0.748,"A Sugarloaf",6,0,5,1
+0,0.748,"A Sugarloaf",1,0,1,0
+6,0.768,"A Tundra",124,94,0,30
+5,0.768,"A Tundra",257,119,83,55
+4,0.768,"A Tundra",160,44,95,21
+3,0.768,"A Tundra",74,10,56,8
+2,0.768,"A Tundra",19,0,17,2
+1,0.768,"A Tundra",2,0,2,0
+6,0.656,"B Alpine",44,37,0,7
+5,0.656,"B Alpine",162,112,28,22
+4,0.656,"B Alpine",220,85,91,44
+3,0.656,"B Alpine",141,32,87,22
+2,0.656,"B Alpine",59,8,46,5
+1,0.656,"B Alpine",9,1,8,0
+0,0.656,"B Alpine",1,0,1,0
+6,0.642,"B Arcadia",28,24,0,4
+5,0.642,"B Arcadia",159,102,27,30
+4,0.642,"B Arcadia",233,117,85,31
+3,0.642,"B Arcadia",148,32,99,17
+2,0.642,"B Arcadia",59,8,49,2
+1,0.642,"B Arcadia",8,0,8,0
+0,0.642,"B Arcadia",5,0,5,0
+6,0.557,"B Archipelago",24,24,0,0
+5,0.557,"B Archipelago",87,73,11,3
+4,0.557,"B Archipelago",190,103,65,22
+3,0.557,"B Archipelago",177,62,90,25
+2,0.557,"B Archipelago",115,26,73,16
+1,0.557,"B Archipelago",41,2,35,4
+0,0.557,"B Archipelago",7,0,7,0
+6,0.606,"B Atlantic",28,27,0,1
+5,0.606,"B Atlantic",124,95,17,12
+4,0.606,"B Atlantic",206,98,71,37
+3,0.606,"B Atlantic",169,48,96,25
+2,0.606,"B Atlantic",81,12,56,13
+1,0.606,"B Atlantic",22,1,21,0
+0,0.606,"B Atlantic",3,0,3,0
+6,0.680,"B Badlands",61,54,0,7
+5,0.680,"B Badlands",185,122,41,22
+4,0.680,"B Badlands",216,82,115,19
+3,0.680,"B Badlands",112,30,71,11
+2,0.680,"B Badlands",50,6,41,3
+1,0.680,"B Badlands",13,0,13,0
+0,0.680,"B Badlands",1,0,1,0
+6,0.682,"B Bayou",58,50,0,8
+5,0.682,"B Bayou",198,119,34,45
+4,0.682,"B Bayou",191,77,84,30
+3,0.682,"B Bayou",138,25,94,19
+2,0.682,"B Bayou",35,2,31,2
+1,0.682,"B Bayou",13,0,13,0
+0,0.682,"B Bayou",2,0,2,0
+6,0.629,"B Cascade",32,31,0,1
+5,0.629,"B Cascade",147,96,23,28
+4,0.629,"B Cascade",216,90,82,44
+3,0.629,"B Cascade",147,42,78,27
+2,0.629,"B Cascade",72,12,54,6
+1,0.629,"B Cascade",15,0,15,0
+0,0.629,"B Cascade",5,1,4,0
+6,0.707,"B Central",81,62,0,19
+5,0.707,"B Central",206,121,45,40
+4,0.707,"B Central",197,72,109,16
+3,0.707,"B Central",109,20,75,14
+2,0.707,"B Central",47,5,41,1
+1,0.707,"B Central",3,0,3,0
+6,0.643,"B Coastal",54,48,0,6
+5,0.643,"B Coastal",142,89,26,27
+4,0.643,"B Coastal",243,112,90,41
+3,0.643,"B Coastal",165,49,102,14
+2,0.643,"B Coastal",60,6,51,3
+1,0.643,"B Coastal",18,0,17,1
+0,0.643,"B Coastal",2,0,2,0
+6,0.659,"B Continental",45,42,0,3
+5,0.659,"B Continental",163,108,27,28
+4,0.659,"B Continental",220,90,84,46
+3,0.659,"B Continental",141,30,96,15
+2,0.659,"B Continental",54,6,44,4
+1,0.659,"B Continental",7,1,6,0
+0,0.659,"B Continental",3,0,3,0
+6,0.563,"B Corridor",27,27,0,0
+5,0.563,"B Corridor",92,74,9,9
+4,0.563,"B Corridor",182,101,54,27
+3,0.563,"B Corridor",184,55,101,28
+2,0.563,"B Corridor",120,22,79,19
+1,0.563,"B Corridor",33,3,27,3
+0,0.563,"B Corridor",6,0,6,0
+6,0.639,"B Fjord",33,28,0,5
+5,0.639,"B Fjord",168,114,26,28
+4,0.639,"B Fjord",194,80,77,37
+3,0.639,"B Fjord",171,46,99,26
+2,0.639,"B Fjord",56,7,46,3
+1,0.639,"B Fjord",17,0,16,1
+0,0.639,"B Fjord",2,0,2,0
+6,0.653,"B Frontier",35,31,0,4
+5,0.653,"B Frontier",189,127,30,32
+4,0.653,"B Frontier",195,72,83,40
+3,0.653,"B Frontier",146,37,90,19
+2,0.653,"B Frontier",58,8,47,3
+1,0.653,"B Frontier",15,1,14,0
+0,0.653,"B Frontier",1,0,1,0
+6,0.615,"B Glacier",43,41,0,2
+5,0.615,"B Glacier",144,104,21,19
+4,0.615,"B Glacier",183,82,72,29
+3,0.615,"B Glacier",157,37,91,29
+2,0.615,"B Glacier",86,11,59,16
+1,0.615,"B Glacier",28,2,25,1
+0,0.615,"B Glacier",4,0,4,0
+6,0.562,"B Highland",14,14,0,0
+5,0.562,"B Highland",108,88,10,10
+4,0.562,"B Highland",206,110,69,27
+3,0.562,"B Highland",204,73,102,29
+2,0.562,"B Highland",111,21,77,13
+1,0.562,"B Highland",41,4,36,1
+0,0.562,"B Highland",5,0,5,0
+6,0.628,"B Horizon",47,40,0,7
+5,0.628,"B Horizon",156,106,26,24
+4,0.628,"B Horizon",166,83,57,26
+3,0.628,"B Horizon",163,38,103,22
+2,0.628,"B Horizon",74,10,57,7
+1,0.628,"B Horizon",26,1,19,6
+0,0.628,"B Horizon",2,0,2,0
+6,0.641,"B Juniper",54,50,0,4
+5,0.641,"B Juniper",159,103,31,25
+4,0.641,"B Juniper",178,80,64,34
+3,0.641,"B Juniper",143,37,89,17
+2,0.641,"B Juniper",78,8,59,11
+1,0.641,"B Juniper",21,1,19,1
+0,0.641,"B Juniper",1,0,1,0
+6,0.654,"B Laguna",52,47,0,5
+5,0.654,"B Laguna",163,112,35,16
+4,0.654,"B Laguna",194,77,78,39
+3,0.654,"B Laguna",152,34,94,24
+2,0.654,"B Laguna",53,8,38,7
+1,0.654,"B Laguna",18,0,15,3
+0,0.654,"B Laguna",1,0,1,0
+6,0.664,"B Magnolia",43,37,0,6
+5,0.664,"B Magnolia",173,119,29,25
+4,0.664,"B Magnolia",225,77,106,42
+3,0.664,"B Magnolia",144,36,88,20
+2,0.664,"B Magnolia",44,7,34,3
+1,0.664,"B Magnolia",10,1,9,0
+0,0.664,"B Magnolia",2,0,2,0
+6,0.640,"B Maritime",30,28,0,2
+5,0.640,"B Maritime",158,117,23,18
+4,0.640,"B Maritime",218,96,91,31
+3,0.640,"B Maritime",145,40,84,21
+2,0.640,"B Maritime",66,3,55,8
+1,0.640,"B Maritime",12,0,10,2
+0,0.640,"B Maritime",1,0,1,0
+6,0.568,"B Memorial",20,16,0,4
+5,0.568,"B Memorial",103,85,11,7
+4,0.568,"B Memorial",193,97,60,36
+3,0.568,"B Memorial",179,69,92,18
+2,0.568,"B Memorial",100,13,68,19
+1,0.568,"B Memorial",43,1,40,2
+0,0.568,"B Memorial",4,1,3,0
+6,0.638,"B Meridian",27,26,0,1
+5,0.638,"B Meridian",166,112,27,27
+4,0.638,"B Meridian",269,119,106,44
+3,0.638,"B Meridian",146,33,93,20
+2,0.638,"B Meridian",67,8,51,8
+1,0.638,"B Meridian",14,2,12,0
+0,0.638,"B Meridian",4,0,4,0
+6,0.582,"B Metro",20,18,0,2
+5,0.582,"B Metro",115,84,19,12
+4,0.582,"B Metro",193,115,51,27
+3,0.582,"B Metro",168,48,96,24
+2,0.582,"B Metro",99,17,71,11
+1,0.582,"B Metro",33,2,27,4
+0,0.582,"B Metro",3,0,3,0
+6,0.650,"B Midland",50,50,0,0
+5,0.650,"B Midland",163,112,27,24
+4,0.650,"B Midland",203,85,91,27
+3,0.650,"B Midland",144,31,91,22
+2,0.650,"B Midland",67,5,55,7
+1,0.650,"B Midland",14,1,13,0
+0,0.650,"B Midland",2,1,1,0
+6,0.657,"B Morningstar",51,45,0,6
+5,0.657,"B Morningstar",172,105,31,36
+4,0.657,"B Morningstar",212,90,88,34
+3,0.657,"B Morningstar",119,34,81,4
+2,0.657,"B Morningstar",67,9,54,4
+1,0.657,"B Morningstar",16,0,16,0
+0,0.657,"B Morningstar",3,0,3,0
+6,0.613,"B Pacific",29,29,0,0
+5,0.613,"B Pacific",129,95,21,13
+4,0.613,"B Pacific",214,97,77,40
+3,0.613,"B Pacific",160,46,86,28
+2,0.613,"B Pacific",81,11,57,13
+1,0.613,"B Pacific",21,0,21,0
+0,0.613,"B Pacific",2,0,2,0
+6,0.634,"B Piedmont",31,26,0,5
+5,0.634,"B Piedmont",139,93,21,25
+4,0.634,"B Piedmont",215,96,72,47
+3,0.634,"B Piedmont",156,46,86,24
+2,0.634,"B Piedmont",55,11,40,4
+1,0.634,"B Piedmont",19,0,18,1
+6,0.606,"B Plaza",23,21,0,2
+5,0.606,"B Plaza",113,85,20,8
+4,0.606,"B Plaza",228,127,70,31
+3,0.606,"B Plaza",158,45,102,11
+2,0.606,"B Plaza",78,18,58,2
+1,0.606,"B Plaza",22,1,21,0
+0,0.606,"B Plaza",1,0,1,0
+6,0.617,"B Prairie",39,38,0,1
+5,0.617,"B Prairie",126,106,15,5
+4,0.617,"B Prairie",204,102,79,23
+3,0.617,"B Prairie",159,41,99,19
+2,0.617,"B Prairie",86,7,70,9
+1,0.617,"B Prairie",16,1,12,3
+0,0.617,"B Prairie",3,0,3,0
+6,0.558,"B Seaboard",16,16,0,0
+5,0.558,"B Seaboard",83,65,12,6
+4,0.558,"B Seaboard",191,111,55,25
+3,0.558,"B Seaboard",204,67,94,43
+2,0.558,"B Seaboard",116,21,89,6
+1,0.558,"B Seaboard",25,3,20,2
+0,0.558,"B Seaboard",5,1,4,0
+6,0.602,"B Sequoia",25,22,0,3
+5,0.602,"B Sequoia",121,86,16,19
+4,0.602,"B Sequoia",218,115,72,31
+3,0.602,"B Sequoia",160,45,85,30
+2,0.602,"B Sequoia",95,8,77,10
+1,0.602,"B Sequoia",20,2,17,1
+0,0.602,"B Sequoia",2,0,2,0
+6,0.596,"B Sierra",21,21,0,0
+5,0.596,"B Sierra",110,82,15,13
+4,0.596,"B Sierra",205,100,63,42
+3,0.596,"B Sierra",207,61,116,30
+2,0.596,"B Sierra",80,12,55,13
+1,0.596,"B Sierra",17,0,17,0
+0,0.596,"B Sierra",2,0,2,0
+6,0.616,"B Skyline",33,30,0,3
+5,0.616,"B Skyline",126,93,18,15
+4,0.616,"B Skyline",210,101,76,33
+3,0.616,"B Skyline",171,48,95,28
+2,0.616,"B Skyline",71,11,55,5
+1,0.616,"B Skyline",21,0,21,0
+0,0.616,"B Skyline",2,0,2,0
+6,0.640,"B Sugarloaf",43,34,0,9
+5,0.640,"B Sugarloaf",149,100,19,30
+4,0.640,"B Sugarloaf",200,88,80,32
+3,0.640,"B Sugarloaf",166,41,94,31
+2,0.640,"B Sugarloaf",59,3,43,13
+1,0.640,"B Sugarloaf",16,1,14,1
+0,0.640,"B Sugarloaf",1,0,1,0
+6,0.676,"B Tundra",48,46,0,2
+5,0.676,"B Tundra",202,128,38,36
+4,0.676,"B Tundra",237,100,101,36
+3,0.676,"B Tundra",142,26,98,18
+2,0.676,"B Tundra",42,1,39,2
+1,0.676,"B Tundra",8,1,5,2
+0,0.676,"B Tundra",2,0,2,0
+6,0.522,"C Alpine Div 1",8,8,0,0
+5,0.522,"C Alpine Div 1",49,39,5,5
+4,0.522,"C Alpine Div 1",134,74,30,30
+3,0.522,"C Alpine Div 1",152,57,63,32
+2,0.522,"C Alpine Div 1",111,21,67,23
+1,0.522,"C Alpine Div 1",34,4,26,4
+0,0.522,"C Alpine Div 1",4,0,4,0
+6,0.558,"C Alpine Div 2",17,16,0,1
+5,0.558,"C Alpine Div 2",74,57,8,9
+4,0.558,"C Alpine Div 2",140,85,43,12
+3,0.558,"C Alpine Div 2",140,45,68,27
+2,0.558,"C Alpine Div 2",89,11,63,15
+1,0.558,"C Alpine Div 2",32,2,26,4
+0,0.558,"C Alpine Div 2",4,0,4,0
+6,0.556,"C Arcadia Div 1",14,14,0,0
+5,0.556,"C Arcadia Div 1",74,57,5,12
+4,0.556,"C Arcadia Div 1",129,67,39,23
+3,0.556,"C Arcadia Div 1",151,55,69,27
+2,0.556,"C Arcadia Div 1",84,15,56,13
+1,0.556,"C Arcadia Div 1",31,3,26,2
+0,0.556,"C Arcadia Div 1",3,0,2,1
+6,0.583,"C Arcadia Div 2",14,14,0,0
+5,0.583,"C Arcadia Div 2",64,44,9,11
+4,0.583,"C Arcadia Div 2",160,92,39,29
+3,0.583,"C Arcadia Div 2",119,34,65,20
+2,0.583,"C Arcadia Div 2",69,6,54,9
+1,0.583,"C Arcadia Div 2",18,0,17,1
+0,0.583,"C Arcadia Div 2",1,0,1,0
+6,0.546,"C Archipelago",20,20,0,0
+5,0.546,"C Archipelago",67,49,8,10
+4,0.546,"C Archipelago",129,68,46,15
+3,0.546,"C Archipelago",129,55,60,14
+2,0.546,"C Archipelago",100,24,67,9
+1,0.546,"C Archipelago",34,9,23,2
+0,0.546,"C Archipelago",7,0,7,0
+6,0.515,"C Atlantic Div 1",8,8,0,0
+5,0.515,"C Atlantic Div 1",54,43,7,4
+4,0.515,"C Atlantic Div 1",133,82,35,16
+3,0.515,"C Atlantic Div 1",152,59,73,20
+2,0.515,"C Atlantic Div 1",89,20,50,19
+1,0.515,"C Atlantic Div 1",34,7,26,1
+0,0.515,"C Atlantic Div 1",21,1,20,0
+6,0.520,"C Atlantic Div 2",6,6,0,0
+5,0.520,"C Atlantic Div 2",43,35,2,6
+4,0.520,"C Atlantic Div 2",129,78,30,21
+3,0.520,"C Atlantic Div 2",131,45,59,27
+2,0.520,"C Atlantic Div 2",100,26,66,8
+1,0.520,"C Atlantic Div 2",29,2,23,4
+0,0.520,"C Atlantic Div 2",7,0,7,0
+6,0.589,"C Badlands Div 1",15,15,0,0
+5,0.589,"C Badlands Div 1",94,70,14,10
+4,0.589,"C Badlands Div 1",150,75,51,24
+3,0.589,"C Badlands Div 1",144,45,76,23
+2,0.589,"C Badlands Div 1",76,5,55,16
+1,0.589,"C Badlands Div 1",18,2,13,3
+0,0.589,"C Badlands Div 1",2,0,2,0
+6,0.574,"C Badlands Div 2",11,11,0,0
+5,0.574,"C Badlands Div 2",73,54,11,8
+4,0.574,"C Badlands Div 2",138,82,42,14
+3,0.574,"C Badlands Div 2",125,39,63,23
+2,0.574,"C Badlands Div 2",83,11,64,8
+1,0.574,"C Badlands Div 2",15,0,12,3
+0,0.574,"C Badlands Div 2",2,0,2,0
+6,0.576,"C Bayou Div 1",22,22,0,0
+5,0.576,"C Bayou Div 1",104,81,14,9
+4,0.576,"C Bayou Div 1",177,90,60,27
+3,0.576,"C Bayou Div 1",163,54,81,28
+2,0.576,"C Bayou Div 1",90,10,71,9
+1,0.576,"C Bayou Div 1",33,4,24,5
+0,0.576,"C Bayou Div 1",8,0,8,0
+6,0.531,"C Bayou Div 2",16,16,0,0
+5,0.531,"C Bayou Div 2",71,49,9,13
+4,0.531,"C Bayou Div 2",151,99,39,13
+3,0.531,"C Bayou Div 2",177,64,90,23
+2,0.531,"C Bayou Div 2",132,31,81,20
+1,0.531,"C Bayou Div 2",40,3,30,7
+0,0.531,"C Bayou Div 2",6,0,6,0
+6,0.562,"C Cascade",25,25,0,0
+5,0.562,"C Cascade",133,110,20,3
+4,0.562,"C Cascade",211,112,70,29
+3,0.562,"C Cascade",213,71,109,33
+2,0.562,"C Cascade",150,33,95,22
+1,0.562,"C Cascade",46,2,39,5
+0,0.562,"C Cascade",6,1,5,0
+6,0.614,"C Central",12,11,0,1
+5,0.614,"C Central",170,120,17,33
+4,0.614,"C Central",254,117,92,45
+3,0.614,"C Central",190,60,109,21
+2,0.614,"C Central",75,9,54,12
+1,0.614,"C Central",26,2,24,0
+0,0.614,"C Central",1,0,1,0
+6,0.567,"C Coastal",25,25,0,0
+5,0.567,"C Coastal",132,105,15,12
+4,0.567,"C Coastal",248,138,81,29
+3,0.567,"C Coastal",247,71,133,43
+2,0.567,"C Coastal",134,28,90,16
+1,0.567,"C Coastal",42,6,32,4
+0,0.567,"C Coastal",11,0,11,0
+6,0.571,"C Continental Div 1",23,23,0,0
+5,0.571,"C Continental Div 1",71,56,10,5
+4,0.571,"C Continental Div 1",166,97,50,19
+3,0.571,"C Continental Div 1",169,61,89,19
+2,0.571,"C Continental Div 1",82,12,61,9
+1,0.571,"C Continental Div 1",27,0,27,0
+0,0.571,"C Continental Div 1",3,0,3,0
+6,0.585,"C Continental Div 2",16,16,0,0
+5,0.585,"C Continental Div 2",100,70,15,15
+4,0.585,"C Continental Div 2",140,78,44,18
+3,0.585,"C Continental Div 2",131,38,66,27
+2,0.585,"C Continental Div 2",81,11,60,10
+1,0.585,"C Continental Div 2",25,1,22,2
+0,0.585,"C Continental Div 2",2,0,2,0
+6,0.499,"C Corridor Div 1",8,6,0,2
+5,0.499,"C Corridor Div 1",33,28,3,2
+4,0.499,"C Corridor Div 1",123,82,27,14
+3,0.499,"C Corridor Div 1",141,69,52,20
+2,0.499,"C Corridor Div 1",109,26,64,19
+1,0.499,"C Corridor Div 1",42,5,30,7
+0,0.499,"C Corridor Div 1",8,1,7,0
+6,0.484,"C Corridor Div 2",2,2,0,0
+5,0.484,"C Corridor Div 2",41,38,2,1
+4,0.484,"C Corridor Div 2",116,80,30,6
+3,0.484,"C Corridor Div 2",155,69,61,25
+2,0.484,"C Corridor Div 2",104,23,66,15
+1,0.484,"C Corridor Div 2",57,9,37,11
+0,0.484,"C Corridor Div 2",11,0,11,0
+6,0.548,"C Fjord",17,17,0,0
+5,0.548,"C Fjord",117,92,11,14
+4,0.548,"C Fjord",222,130,60,32
+3,0.548,"C Fjord",268,98,122,48
+2,0.548,"C Fjord",155,26,113,16
+1,0.548,"C Fjord",51,5,42,4
+0,0.548,"C Fjord",4,0,4,0
+6,0.556,"C Frontier",23,23,0,0
+5,0.556,"C Frontier",97,78,6,13
+4,0.556,"C Frontier",267,157,72,38
+3,0.556,"C Frontier",243,72,131,40
+2,0.556,"C Frontier",150,30,97,23
+1,0.556,"C Frontier",40,7,31,2
+0,0.556,"C Frontier",7,0,7,0
+6,0.541,"C Glacier",22,18,0,4
+5,0.541,"C Glacier",73,59,6,8
+4,0.541,"C Glacier",158,94,38,26
+3,0.541,"C Glacier",174,55,89,30
+2,0.541,"C Glacier",124,22,78,24
+1,0.541,"C Glacier",38,3,31,4
+0,0.541,"C Glacier",8,0,6,2
+6,0.483,"C Highland Div 1",7,7,0,0
+5,0.483,"C Highland Div 1",33,31,2,0
+4,0.483,"C Highland Div 1",103,71,23,9
+3,0.483,"C Highland Div 1",179,83,69,27
+2,0.483,"C Highland Div 1",109,23,73,13
+1,0.483,"C Highland Div 1",38,2,26,10
+0,0.483,"C Highland Div 1",18,1,12,5
+6,0.514,"C Highland Div 2",8,8,0,0
+5,0.514,"C Highland Div 2",48,41,4,3
+4,0.514,"C Highland Div 2",121,78,26,17
+3,0.514,"C Highland Div 2",164,71,73,20
+2,0.514,"C Highland Div 2",102,18,70,14
+1,0.514,"C Highland Div 2",38,5,30,3
+0,0.514,"C Highland Div 2",7,0,6,1
+6,0.544,"C Horizon",16,14,0,2
+5,0.544,"C Horizon",96,78,9,9
+4,0.544,"C Horizon",243,141,73,29
+3,0.544,"C Horizon",257,92,120,45
+2,0.544,"C Horizon",162,37,100,25
+1,0.544,"C Horizon",46,4,36,6
+0,0.544,"C Horizon",4,0,4,0
+6,0.561,"C Juniper",24,24,0,0
+5,0.561,"C Juniper",93,71,12,10
+4,0.561,"C Juniper",185,112,49,24
+3,0.561,"C Juniper",176,61,99,16
+2,0.561,"C Juniper",106,19,73,14
+1,0.561,"C Juniper",43,5,38,0
+0,0.561,"C Juniper",6,0,6,0
+6,0.552,"C Laguna Div 1",15,13,0,2
+5,0.552,"C Laguna Div 1",96,69,13,14
+4,0.552,"C Laguna Div 1",200,116,51,33
+3,0.552,"C Laguna Div 1",208,76,93,39
+2,0.552,"C Laguna Div 1",112,21,79,12
+1,0.552,"C Laguna Div 1",40,3,33,4
+0,0.552,"C Laguna Div 1",11,0,11,0
+6,0.520,"C Laguna Div 2",13,12,0,1
+5,0.520,"C Laguna Div 2",60,51,4,5
+4,0.520,"C Laguna Div 2",174,111,39,24
+3,0.520,"C Laguna Div 2",188,77,83,28
+2,0.520,"C Laguna Div 2",129,27,82,20
+1,0.520,"C Laguna Div 2",38,5,29,4
+0,0.520,"C Laguna Div 2",18,1,17,0
+6,0.555,"C Magnolia Div 1",14,10,0,4
+5,0.555,"C Magnolia Div 1",62,49,6,7
+4,0.555,"C Magnolia Div 1",123,70,36,17
+3,0.555,"C Magnolia Div 1",137,50,66,21
+2,0.555,"C Magnolia Div 1",72,14,51,7
+1,0.555,"C Magnolia Div 1",30,2,24,4
+0,0.555,"C Magnolia Div 1",4,0,4,0
+6,0.578,"C Magnolia Div 2",17,17,0,0
+5,0.578,"C Magnolia Div 2",70,51,8,11
+4,0.578,"C Magnolia Div 2",137,69,43,25
+3,0.578,"C Magnolia Div 2",124,39,63,22
+2,0.578,"C Magnolia Div 2",74,15,53,6
+1,0.578,"C Magnolia Div 2",20,2,18,0
+0,0.578,"C Magnolia Div 2",2,0,2,0
+6,0.564,"C Maritime",40,36,0,4
+5,0.564,"C Maritime",148,114,26,8
+4,0.564,"C Maritime",202,109,62,31
+3,0.564,"C Maritime",222,84,105,33
+2,0.564,"C Maritime",131,25,87,19
+1,0.564,"C Maritime",46,7,36,3
+0,0.564,"C Maritime",27,0,27,0
+6,0.545,"C Memorial",19,17,0,2
+5,0.545,"C Memorial",99,80,9,10
+4,0.545,"C Memorial",250,153,54,43
+3,0.545,"C Memorial",250,92,139,19
+2,0.545,"C Memorial",170,36,122,12
+1,0.545,"C Memorial",47,3,42,2
+0,0.545,"C Memorial",5,0,5,0
+6,0.546,"C Meridian",26,26,0,0
+5,0.546,"C Meridian",95,88,5,2
+4,0.546,"C Meridian",238,137,63,38
+3,0.546,"C Meridian",257,93,130,34
+2,0.546,"C Meridian",157,32,113,12
+1,0.546,"C Meridian",52,4,45,3
+0,0.546,"C Meridian",5,0,4,1
+6,0.540,"C Metro",15,14,0,1
+5,0.540,"C Metro",94,81,7,6
+4,0.540,"C Metro",218,133,61,24
+3,0.540,"C Metro",231,91,105,35
+2,0.540,"C Metro",138,30,85,23
+1,0.540,"C Metro",53,3,47,3
+0,0.540,"C Metro",9,1,8,0
+6,0.493,"C Midland Div 1",6,6,0,0
+5,0.493,"C Midland Div 1",50,47,3,0
+4,0.493,"C Midland Div 1",105,70,25,10
+3,0.493,"C Midland Div 1",136,57,61,18
+2,0.493,"C Midland Div 1",138,37,80,21
+1,0.493,"C Midland Div 1",45,4,32,9
+0,0.493,"C Midland Div 1",5,0,5,0
+6,0.533,"C Midland Div 2",8,8,0,0
+5,0.533,"C Midland Div 2",61,47,5,9
+4,0.533,"C Midland Div 2",144,77,39,28
+3,0.533,"C Midland Div 2",139,62,57,20
+2,0.533,"C Midland Div 2",96,16,65,15
+1,0.533,"C Midland Div 2",41,2,35,4
+0,0.533,"C Midland Div 2",5,0,5,0
+6,0.552,"C Morningstar Div 1",17,17,0,0
+5,0.552,"C Morningstar Div 1",74,63,8,3
+4,0.552,"C Morningstar Div 1",154,92,47,15
+3,0.552,"C Morningstar Div 1",158,54,85,19
+2,0.552,"C Morningstar Div 1",87,16,58,13
+1,0.552,"C Morningstar Div 1",42,5,34,3
+0,0.552,"C Morningstar Div 1",5,0,4,1
+6,0.563,"C Morningstar Div 2",16,16,0,0
+5,0.563,"C Morningstar Div 2",90,65,12,13
+4,0.563,"C Morningstar Div 2",115,69,32,14
+3,0.563,"C Morningstar Div 2",151,54,78,19
+2,0.563,"C Morningstar Div 2",86,16,61,9
+1,0.563,"C Morningstar Div 2",29,2,26,1
+0,0.563,"C Morningstar Div 2",4,0,4,0
+6,0.522,"C Pacific Div 1",14,12,0,2
+5,0.522,"C Pacific Div 1",50,44,6,0
+4,0.522,"C Pacific Div 1",136,85,31,20
+3,0.522,"C Pacific Div 1",138,47,56,35
+2,0.522,"C Pacific Div 1",100,24,66,10
+1,0.522,"C Pacific Div 1",41,3,36,2
+0,0.522,"C Pacific Div 1",10,0,9,1
+6,0.556,"C Pacific Div 2",12,10,0,2
+5,0.556,"C Pacific Div 2",66,47,9,10
+4,0.556,"C Pacific Div 2",136,79,34,23
+3,0.556,"C Pacific Div 2",144,53,73,18
+2,0.556,"C Pacific Div 2",86,21,47,18
+1,0.556,"C Pacific Div 2",25,4,20,1
+0,0.556,"C Pacific Div 2",3,0,3,0
+6,0.563,"C Piedmont",21,21,0,0
+5,0.563,"C Piedmont",105,82,12,11
+4,0.563,"C Piedmont",209,118,62,29
+3,0.563,"C Piedmont",223,79,115,29
+2,0.563,"C Piedmont",143,28,96,19
+1,0.563,"C Piedmont",27,2,23,2
+0,0.563,"C Piedmont",3,0,3,0
+6,0.518,"C Plaza",11,11,0,0
+5,0.518,"C Plaza",74,63,3,8
+4,0.518,"C Plaza",180,117,48,15
+3,0.518,"C Plaza",202,75,101,26
+2,0.518,"C Plaza",155,40,98,17
+1,0.518,"C Plaza",54,7,40,7
+0,0.518,"C Plaza",8,0,7,1
+6,0.543,"C Prairie",18,18,0,0
+5,0.543,"C Prairie",66,51,10,5
+4,0.543,"C Prairie",144,79,37,28
+3,0.543,"C Prairie",162,61,75,26
+2,0.543,"C Prairie",110,24,74,12
+1,0.543,"C Prairie",31,3,23,5
+0,0.543,"C Prairie",6,1,5,0
+6,0.515,"C Seaboard Div 1",9,9,0,0
+5,0.515,"C Seaboard Div 1",47,42,3,2
+4,0.515,"C Seaboard Div 1",137,88,38,11
+3,0.515,"C Seaboard Div 1",146,55,67,24
+2,0.515,"C Seaboard Div 1",89,23,53,13
+1,0.515,"C Seaboard Div 1",51,3,39,9
+0,0.515,"C Seaboard Div 1",8,0,7,1
+6,0.495,"C Seaboard Div 2",8,8,0,0
+5,0.495,"C Seaboard Div 2",54,49,2,3
+4,0.495,"C Seaboard Div 2",104,70,25,9
+3,0.495,"C Seaboard Div 2",149,61,59,29
+2,0.495,"C Seaboard Div 2",108,25,72,11
+1,0.495,"C Seaboard Div 2",58,4,42,12
+0,0.495,"C Seaboard Div 2",9,0,7,2
+6,0.550,"C Sequoia",24,21,0,3
+5,0.550,"C Sequoia",98,79,10,9
+4,0.550,"C Sequoia",231,140,65,26
+3,0.550,"C Sequoia",216,72,113,31
+2,0.550,"C Sequoia",156,38,104,14
+1,0.550,"C Sequoia",48,6,39,3
+0,0.550,"C Sequoia",5,0,5,0
+6,0.564,"C Sierra",26,26,0,0
+5,0.564,"C Sierra",129,96,16,17
+4,0.564,"C Sierra",237,134,69,34
+3,0.564,"C Sierra",263,84,136,43
+2,0.564,"C Sierra",143,22,104,17
+1,0.564,"C Sierra",46,4,35,7
+0,0.564,"C Sierra",4,0,4,0
+6,0.525,"C Skyline",16,16,0,0
+5,0.525,"C Skyline",65,57,6,2
+4,0.525,"C Skyline",171,110,45,16
+3,0.525,"C Skyline",191,76,90,25
+2,0.525,"C Skyline",140,34,96,10
+1,0.525,"C Skyline",46,5,40,1
+0,0.525,"C Skyline",7,0,7,0
+6,0.552,"C Sugarloaf Div 1",9,9,0,0
+5,0.552,"C Sugarloaf Div 1",73,63,7,3
+4,0.552,"C Sugarloaf Div 1",145,81,38,26
+3,0.552,"C Sugarloaf Div 1",134,41,68,25
+2,0.552,"C Sugarloaf Div 1",87,17,58,12
+1,0.552,"C Sugarloaf Div 1",34,5,27,2
+0,0.552,"C Sugarloaf Div 1",4,0,4,0
+6,0.551,"C Sugarloaf Div 2",9,8,0,1
+5,0.551,"C Sugarloaf Div 2",62,56,1,5
+4,0.551,"C Sugarloaf Div 2",155,89,38,28
+3,0.551,"C Sugarloaf Div 2",151,51,85,15
+2,0.551,"C Sugarloaf Div 2",78,12,56,10
+1,0.551,"C Sugarloaf Div 2",29,4,24,1
+0,0.551,"C Sugarloaf Div 2",7,0,7,0
+6,0.556,"C Tundra Div 1",15,14,0,1
+5,0.556,"C Tundra Div 1",85,69,7,9
+4,0.556,"C Tundra Div 1",173,97,49,27
+3,0.556,"C Tundra Div 1",177,66,95,16
+2,0.556,"C Tundra Div 1",95,18,64,13
+1,0.556,"C Tundra Div 1",39,2,35,2
+0,0.556,"C Tundra Div 1",6,0,6,0
+6,0.553,"C Tundra Div 2",14,14,0,0
+5,0.553,"C Tundra Div 2",83,71,6,6
+4,0.553,"C Tundra Div 2",175,110,53,12
+3,0.553,"C Tundra Div 2",176,53,102,21
+2,0.553,"C Tundra Div 2",103,21,73,9
+1,0.553,"C Tundra Div 2",35,5,26,4
+0,0.553,"C Tundra Div 2",7,0,7,0
+6,0.442,"D Alpine Div 1",5,5,0,0
+5,0.442,"D Alpine Div 1",32,30,1,1
+4,0.442,"D Alpine Div 1",112,81,18,13
+3,0.442,"D Alpine Div 1",195,97,66,32
+2,0.442,"D Alpine Div 1",189,50,106,33
+1,0.442,"D Alpine Div 1",87,15,58,14
+0,0.442,"D Alpine Div 1",17,0,16,1
+6,0.426,"D Alpine Div 2",3,3,0,0
+5,0.426,"D Alpine Div 2",34,31,1,2
+4,0.426,"D Alpine Div 2",84,59,10,15
+3,0.426,"D Alpine Div 2",184,94,59,31
+2,0.426,"D Alpine Div 2",171,60,91,20
+1,0.426,"D Alpine Div 2",84,11,60,13
+0,0.426,"D Alpine Div 2",28,0,25,3
+6,0.472,"D Arcadia Div 1",9,8,0,1
+5,0.472,"D Arcadia Div 1",40,35,2,3
+4,0.472,"D Arcadia Div 1",162,110,32,20
+3,0.472,"D Arcadia Div 1",191,96,78,17
+2,0.472,"D Arcadia Div 1",174,49,100,25
+1,0.472,"D Arcadia Div 1",84,9,63,12
+0,0.472,"D Arcadia Div 1",14,1,13,0
+6,0.458,"D Arcadia Div 2",9,9,0,0
+5,0.458,"D Arcadia Div 2",27,24,3,0
+4,0.458,"D Arcadia Div 2",130,95,19,16
+3,0.458,"D Arcadia Div 2",208,105,75,28
+2,0.458,"D Arcadia Div 2",150,45,83,22
+1,0.458,"D Arcadia Div 2",91,10,73,8
+0,0.458,"D Arcadia Div 2",13,0,13,0
+6,0.451,"D Archipelago Div 1",3,3,0,0
+5,0.451,"D Archipelago Div 1",23,21,1,1
+4,0.451,"D Archipelago Div 1",104,72,15,17
+3,0.451,"D Archipelago Div 1",153,69,54,30
+2,0.451,"D Archipelago Div 1",128,31,75,22
+1,0.451,"D Archipelago Div 1",63,10,38,15
+0,0.451,"D Archipelago Div 1",16,1,14,1
+6,0.433,"D Archipelago Div 2",3,3,0,0
+5,0.433,"D Archipelago Div 2",28,26,2,0
+4,0.433,"D Archipelago Div 2",93,70,12,11
+3,0.433,"D Archipelago Div 2",125,65,40,20
+2,0.433,"D Archipelago Div 2",155,49,89,17
+1,0.433,"D Archipelago Div 2",70,8,55,7
+0,0.433,"D Archipelago Div 2",21,0,18,3
+6,0.451,"D Atlantic Div 1",7,7,0,0
+5,0.451,"D Atlantic Div 1",33,30,1,2
+4,0.451,"D Atlantic Div 1",118,86,18,14
+3,0.451,"D Atlantic Div 1",203,106,68,29
+2,0.451,"D Atlantic Div 1",161,46,88,27
+1,0.451,"D Atlantic Div 1",95,8,78,9
+0,0.451,"D Atlantic Div 1",13,0,12,1
+6,0.431,"D Atlantic Div 2",3,3,0,0
+5,0.431,"D Atlantic Div 2",27,25,0,2
+4,0.431,"D Atlantic Div 2",93,62,13,18
+3,0.431,"D Atlantic Div 2",185,91,62,32
+2,0.431,"D Atlantic Div 2",175,62,80,33
+1,0.431,"D Atlantic Div 2",79,7,61,11
+0,0.431,"D Atlantic Div 2",21,1,18,2
+6,0.462,"D Badlands Div 1",6,6,0,0
+5,0.462,"D Badlands Div 1",35,28,3,4
+4,0.462,"D Badlands Div 1",139,96,26,17
+3,0.462,"D Badlands Div 1",204,88,73,43
+2,0.462,"D Badlands Div 1",155,36,85,34
+1,0.462,"D Badlands Div 1",79,14,51,14
+0,0.462,"D Badlands Div 1",20,1,19,0
+6,0.436,"D Badlands Div 2",7,7,0,0
+5,0.436,"D Badlands Div 2",39,33,3,3
+4,0.436,"D Badlands Div 2",114,76,21,17
+3,0.436,"D Badlands Div 2",190,100,59,31
+2,0.436,"D Badlands Div 2",171,51,98,22
+1,0.436,"D Badlands Div 2",79,16,55,8
+0,0.436,"D Badlands Div 2",43,1,41,1
+6,0.427,"D Bayou Div 1",4,3,0,1
+5,0.427,"D Bayou Div 1",30,28,1,1
+4,0.427,"D Bayou Div 1",111,86,23,2
+3,0.427,"D Bayou Div 1",188,92,62,34
+2,0.427,"D Bayou Div 1",182,61,89,32
+1,0.427,"D Bayou Div 1",103,14,80,9
+0,0.427,"D Bayou Div 1",26,0,23,3
+6,0.465,"D Bayou Div 2",5,5,0,0
+5,0.465,"D Bayou Div 2",41,36,2,3
+4,0.465,"D Bayou Div 2",132,94,27,11
+3,0.465,"D Bayou Div 2",199,87,69,43
+2,0.465,"D Bayou Div 2",177,51,101,25
+1,0.465,"D Bayou Div 2",66,5,50,11
+0,0.465,"D Bayou Div 2",18,0,17,1
+6,0.406,"D Cascade Div 1",3,3,0,0
+5,0.406,"D Cascade Div 1",22,21,0,1
+4,0.406,"D Cascade Div 1",89,64,13,12
+3,0.406,"D Cascade Div 1",185,103,50,32
+2,0.406,"D Cascade Div 1",196,69,101,26
+1,0.406,"D Cascade Div 1",103,18,68,17
+0,0.406,"D Cascade Div 1",32,1,29,2
+6,0.466,"D Cascade Div 2",3,3,0,0
+5,0.466,"D Cascade Div 2",42,37,0,5
+4,0.466,"D Cascade Div 2",132,103,17,12
+3,0.466,"D Cascade Div 2",206,98,82,26
+2,0.466,"D Cascade Div 2",153,41,97,15
+1,0.466,"D Cascade Div 2",77,8,59,10
+0,0.466,"D Cascade Div 2",16,0,14,2
+6,0.528,"D Central Div 1",12,12,0,0
+5,0.528,"D Central Div 1",77,62,7,8
+4,0.528,"D Central Div 1",175,97,39,39
+3,0.528,"D Central Div 1",182,73,68,41
+2,0.528,"D Central Div 1",120,20,84,16
+1,0.528,"D Central Div 1",61,5,52,4
+0,0.528,"D Central Div 1",6,1,5,0
+6,0.541,"D Central Div 2",10,10,0,0
+5,0.541,"D Central Div 2",83,61,9,13
+4,0.541,"D Central Div 2",194,119,43,32
+3,0.541,"D Central Div 2",193,59,101,33
+2,0.541,"D Central Div 2",106,20,71,15
+1,0.541,"D Central Div 2",52,7,40,5
+0,0.541,"D Central Div 2",7,0,7,0
+6,0.449,"D Coastal Div 1",2,2,0,0
+5,0.449,"D Coastal Div 1",46,44,2,0
+4,0.449,"D Coastal Div 1",112,78,18,16
+3,0.449,"D Coastal Div 1",147,77,47,23
+2,0.449,"D Coastal Div 1",159,41,88,30
+1,0.449,"D Coastal Div 1",87,14,62,11
+0,0.449,"D Coastal Div 1",17,3,14,0
+6,0.474,"D Coastal Div 2",3,3,0,0
+5,0.474,"D Coastal Div 2",36,30,2,4
+4,0.474,"D Coastal Div 2",116,70,23,23
+3,0.474,"D Coastal Div 2",165,86,57,22
+2,0.474,"D Coastal Div 2",151,38,90,23
+1,0.474,"D Coastal Div 2",47,8,31,8
+0,0.474,"D Coastal Div 2",12,0,12,0
+6,0.485,"D Continental Div 1",8,6,0,2
+5,0.485,"D Continental Div 1",45,40,3,2
+4,0.485,"D Continental Div 1",147,108,21,18
+3,0.485,"D Continental Div 1",243,106,107,30
+2,0.485,"D Continental Div 1",145,37,84,24
+1,0.485,"D Continental Div 1",72,10,54,8
+0,0.485,"D Continental Div 1",11,1,10,0
+5,0.453,"D Continental Div 2",39,36,1,2
+4,0.453,"D Continental Div 2",132,82,32,18
+3,0.453,"D Continental Div 2",195,93,73,29
+2,0.453,"D Continental Div 2",162,57,80,25
+1,0.453,"D Continental Div 2",95,14,69,12
+0,0.453,"D Continental Div 2",12,0,12,0
+6,0.424,"D Corridor Div 1",5,5,0,0
+5,0.424,"D Corridor Div 1",40,36,1,3
+4,0.424,"D Corridor Div 1",101,71,18,12
+3,0.424,"D Corridor Div 1",130,63,49,18
+2,0.424,"D Corridor Div 1",180,60,78,42
+1,0.424,"D Corridor Div 1",107,18,70,19
+0,0.424,"D Corridor Div 1",23,0,23,0
+6,0.414,"D Corridor Div 2",4,4,0,0
+5,0.414,"D Corridor Div 2",17,16,1,0
+4,0.414,"D Corridor Div 2",99,72,20,7
+3,0.414,"D Corridor Div 2",181,92,63,26
+2,0.414,"D Corridor Div 2",149,61,71,17
+1,0.414,"D Corridor Div 2",97,15,58,24
+0,0.414,"D Corridor Div 2",34,0,28,6
+6,0.488,"D Fjord Div 1",9,9,0,0
+5,0.488,"D Fjord Div 1",45,41,4,0
+4,0.488,"D Fjord Div 1",131,85,25,21
+3,0.488,"D Fjord Div 1",175,71,73,31
+2,0.488,"D Fjord Div 1",145,39,82,24
+1,0.488,"D Fjord Div 1",61,9,40,12
+0,0.488,"D Fjord Div 1",8,0,8,0
+6,0.488,"D Fjord Div 2",6,6,0,0
+5,0.488,"D Fjord Div 2",47,39,5,3
+4,0.488,"D Fjord Div 2",128,78,23,27
+3,0.488,"D Fjord Div 2",161,61,69,31
+2,0.488,"D Fjord Div 2",131,40,71,20
+1,0.488,"D Fjord Div 2",60,10,49,1
+0,0.488,"D Fjord Div 2",9,0,9,0
+6,0.437,"D Frontier Div 1",3,3,0,0
+5,0.437,"D Frontier Div 1",31,27,3,1
+4,0.437,"D Frontier Div 1",102,73,17,12
+3,0.437,"D Frontier Div 1",179,86,67,26
+2,0.437,"D Frontier Div 1",157,55,77,25
+1,0.437,"D Frontier Div 1",85,14,55,16
+0,0.437,"D Frontier Div 1",21,1,18,2
+6,0.453,"D Frontier Div 2",6,6,0,0
+5,0.453,"D Frontier Div 2",32,26,2,4
+4,0.453,"D Frontier Div 2",107,67,21,19
+3,0.453,"D Frontier Div 2",163,71,55,37
+2,0.453,"D Frontier Div 2",143,47,76,20
+1,0.453,"D Frontier Div 2",70,7,48,15
+0,0.453,"D Frontier Div 2",20,1,14,5
+6,0.445,"D Glacier",6,6,0,0
+5,0.445,"D Glacier",53,51,2,0
+4,0.445,"D Glacier",155,106,28,21
+3,0.445,"D Glacier",242,125,87,30
+2,0.445,"D Glacier",223,62,120,41
+1,0.445,"D Glacier",129,19,92,18
+0,0.445,"D Glacier",25,1,24,0
+6,0.411,"D Highland Div 1",1,1,0,0
+5,0.411,"D Highland Div 1",24,24,0,0
+4,0.411,"D Highland Div 1",99,85,7,7
+3,0.411,"D Highland Div 1",188,95,62,31
+2,0.411,"D Highland Div 1",194,61,103,30
+1,0.411,"D Highland Div 1",109,18,79,12
+0,0.411,"D Highland Div 1",27,0,25,2
+6,0.389,"D Highland Div 2",3,3,0,0
+5,0.389,"D Highland Div 2",21,19,0,2
+4,0.389,"D Highland Div 2",82,67,8,7
+3,0.389,"D Highland Div 2",163,102,31,30
+2,0.389,"D Highland Div 2",213,76,116,21
+1,0.389,"D Highland Div 2",115,13,80,22
+0,0.389,"D Highland Div 2",37,2,31,4
+6,0.459,"D Horizon Div 1",3,3,0,0
+5,0.459,"D Horizon Div 1",34,29,3,2
+4,0.459,"D Horizon Div 1",127,94,25,8
+3,0.459,"D Horizon Div 1",177,81,68,28
+2,0.459,"D Horizon Div 1",162,49,87,26
+1,0.459,"D Horizon Div 1",73,9,58,6
+0,0.459,"D Horizon Div 1",14,0,14,0
+6,0.459,"D Horizon Div 2",7,7,0,0
+5,0.459,"D Horizon Div 2",35,29,2,4
+4,0.459,"D Horizon Div 2",118,78,30,10
+3,0.459,"D Horizon Div 2",195,91,73,31
+2,0.459,"D Horizon Div 2",145,42,73,30
+1,0.459,"D Horizon Div 2",78,11,59,8
+0,0.459,"D Horizon Div 2",18,0,17,1
+6,0.455,"D Juniper",5,5,0,0
+5,0.455,"D Juniper",61,52,5,4
+4,0.455,"D Juniper",156,103,24,29
+3,0.455,"D Juniper",261,127,95,39
+2,0.455,"D Juniper",207,67,116,24
+1,0.455,"D Juniper",115,12,84,19
+0,0.455,"D Juniper",26,1,24,1
+6,0.438,"D Laguna Div 1",3,3,0,0
+5,0.438,"D Laguna Div 1",47,39,4,4
+4,0.438,"D Laguna Div 1",119,84,16,19
+3,0.438,"D Laguna Div 1",238,124,85,29
+2,0.438,"D Laguna Div 1",186,56,105,25
+1,0.438,"D Laguna Div 1",113,19,79,15
+0,0.438,"D Laguna Div 1",27,1,20,6
+6,0.452,"D Laguna Div 2",6,6,0,0
+5,0.452,"D Laguna Div 2",39,37,1,1
+4,0.452,"D Laguna Div 2",129,86,32,11
+3,0.452,"D Laguna Div 2",207,100,67,40
+2,0.452,"D Laguna Div 2",206,57,114,35
+1,0.452,"D Laguna Div 2",84,12,56,16
+0,0.452,"D Laguna Div 2",17,0,16,1
+6,0.471,"D Magnolia Div 1",5,5,0,0
+5,0.471,"D Magnolia Div 1",50,38,5,7
+4,0.471,"D Magnolia Div 1",117,85,19,13
+3,0.471,"D Magnolia Div 1",188,82,76,30
+2,0.471,"D Magnolia Div 1",151,39,87,25
+1,0.471,"D Magnolia Div 1",68,8,51,9
+0,0.471,"D Magnolia Div 1",16,0,14,2
+6,0.455,"D Magnolia Div 2",4,4,0,0
+5,0.455,"D Magnolia Div 2",40,36,4,0
+4,0.455,"D Magnolia Div 2",113,83,18,12
+3,0.455,"D Magnolia Div 2",171,86,59,26
+2,0.455,"D Magnolia Div 2",152,36,83,33
+1,0.455,"D Magnolia Div 2",74,11,53,10
+0,0.455,"D Magnolia Div 2",20,1,18,1
+6,0.470,"D Maritime Div 1",9,9,0,0
+5,0.470,"D Maritime Div 1",35,34,0,1
+4,0.470,"D Maritime Div 1",134,93,26,15
+3,0.470,"D Maritime Div 1",184,81,76,27
+2,0.470,"D Maritime Div 1",132,39,74,19
+1,0.470,"D Maritime Div 1",78,6,61,11
+0,0.470,"D Maritime Div 1",16,1,14,1
+6,0.459,"D Maritime Div 2",2,2,0,0
+5,0.459,"D Maritime Div 2",30,25,2,3
+4,0.459,"D Maritime Div 2",112,85,15,12
+3,0.459,"D Maritime Div 2",203,92,81,30
+2,0.459,"D Maritime Div 2",160,44,82,34
+1,0.459,"D Maritime Div 2",65,7,49,9
+0,0.459,"D Maritime Div 2",10,0,8,2
+6,0.446,"D Memorial Div 1",4,4,0,0
+5,0.446,"D Memorial Div 1",31,26,3,2
+4,0.446,"D Memorial Div 1",139,101,24,14
+3,0.446,"D Memorial Div 1",207,100,72,35
+2,0.446,"D Memorial Div 1",201,50,100,51
+1,0.446,"D Memorial Div 1",95,11,71,13
+0,0.446,"D Memorial Div 1",15,0,14,1
+5,0.435,"D Memorial Div 2",33,30,0,3
+4,0.435,"D Memorial Div 2",110,73,22,15
+3,0.435,"D Memorial Div 2",186,94,52,40
+2,0.435,"D Memorial Div 2",180,62,93,25
+1,0.435,"D Memorial Div 2",97,17,69,11
+0,0.435,"D Memorial Div 2",15,1,14,0
+6,0.442,"D Meridian Div 1",6,6,0,0
+5,0.442,"D Meridian Div 1",31,29,1,1
+4,0.442,"D Meridian Div 1",105,74,14,17
+3,0.442,"D Meridian Div 1",187,84,73,30
+2,0.442,"D Meridian Div 1",162,50,77,35
+1,0.442,"D Meridian Div 1",86,6,64,16
+0,0.442,"D Meridian Div 1",19,0,16,3
+6,0.438,"D Meridian Div 2",3,3,0,0
+5,0.438,"D Meridian Div 2",27,24,0,3
+4,0.438,"D Meridian Div 2",108,75,15,18
+3,0.438,"D Meridian Div 2",184,95,64,25
+2,0.438,"D Meridian Div 2",153,52,79,22
+1,0.438,"D Meridian Div 2",88,11,66,11
+0,0.438,"D Meridian Div 2",19,0,18,1
+6,0.415,"D Metro Div 1",2,2,0,0
+5,0.415,"D Metro Div 1",22,21,0,1
+4,0.415,"D Metro Div 1",111,84,19,8
+3,0.415,"D Metro Div 1",176,91,61,24
+2,0.415,"D Metro Div 1",175,66,74,35
+1,0.415,"D Metro Div 1",107,19,78,10
+0,0.415,"D Metro Div 1",30,1,25,4
+6,0.429,"D Metro Div 2",3,2,0,1
+5,0.429,"D Metro Div 2",36,33,1,2
+4,0.429,"D Metro Div 2",104,71,16,17
+3,0.429,"D Metro Div 2",179,91,57,31
+2,0.429,"D Metro Div 2",189,57,97,35
+1,0.429,"D Metro Div 2",104,18,70,16
+0,0.429,"D Metro Div 2",20,0,16,4
+6,0.457,"D Midland Div 1",6,6,0,0
+5,0.457,"D Midland Div 1",41,35,3,3
+4,0.457,"D Midland Div 1",111,81,20,10
+3,0.457,"D Midland Div 1",188,88,72,28
+2,0.457,"D Midland Div 1",154,44,92,18
+1,0.457,"D Midland Div 1",65,9,47,9
+0,0.457,"D Midland Div 1",26,0,20,6
+6,0.442,"D Midland Div 2",1,1,0,0
+5,0.442,"D Midland Div 2",30,26,0,4
+4,0.442,"D Midland Div 2",101,72,16,13
+3,0.442,"D Midland Div 2",166,73,64,29
+2,0.442,"D Midland Div 2",149,45,73,31
+1,0.442,"D Midland Div 2",80,16,59,5
+0,0.442,"D Midland Div 2",14,0,12,2
+6,0.436,"D Morningstar Div 1",3,3,0,0
+5,0.436,"D Morningstar Div 1",41,38,0,3
+4,0.436,"D Morningstar Div 1",115,88,19,8
+3,0.436,"D Morningstar Div 1",173,88,59,26
+2,0.436,"D Morningstar Div 1",177,49,96,32
+1,0.436,"D Morningstar Div 1",98,12,68,18
+0,0.436,"D Morningstar Div 1",25,0,18,7
+6,0.471,"D Morningstar Div 2",9,7,0,2
+5,0.471,"D Morningstar Div 2",36,33,2,1
+4,0.471,"D Morningstar Div 2",131,81,28,22
+3,0.471,"D Morningstar Div 2",178,83,70,25
+2,0.471,"D Morningstar Div 2",157,39,90,28
+1,0.471,"D Morningstar Div 2",71,12,48,11
+0,0.471,"D Morningstar Div 2",11,0,10,1
+6,0.437,"D Pacific Div 1",5,5,0,0
+5,0.437,"D Pacific Div 1",24,21,1,2
+4,0.437,"D Pacific Div 1",96,62,17,17
+3,0.437,"D Pacific Div 1",168,83,54,31
+2,0.437,"D Pacific Div 1",142,58,65,19
+1,0.437,"D Pacific Div 1",79,7,63,9
+0,0.437,"D Pacific Div 1",20,0,20,0
+6,0.440,"D Pacific Div 2",7,7,0,0
+5,0.440,"D Pacific Div 2",38,32,3,3
+4,0.440,"D Pacific Div 2",109,86,15,8
+3,0.440,"D Pacific Div 2",142,61,55,26
+2,0.440,"D Pacific Div 2",125,45,67,13
+1,0.440,"D Pacific Div 2",77,15,56,6
+0,0.440,"D Pacific Div 2",40,0,38,2
+6,0.459,"D Piedmont Div 1",5,5,0,0
+5,0.459,"D Piedmont Div 1",44,37,2,5
+4,0.459,"D Piedmont Div 1",111,80,23,8
+3,0.459,"D Piedmont Div 1",197,94,74,29
+2,0.459,"D Piedmont Div 1",186,58,97,31
+1,0.459,"D Piedmont Div 1",68,10,51,7
+0,0.459,"D Piedmont Div 1",16,1,15,0
+6,0.451,"D Piedmont Div 2",8,8,0,0
+5,0.451,"D Piedmont Div 2",30,27,2,1
+4,0.451,"D Piedmont Div 2",126,95,20,11
+3,0.451,"D Piedmont Div 2",197,89,79,29
+2,0.451,"D Piedmont Div 2",176,52,95,29
+1,0.451,"D Piedmont Div 2",80,10,58,12
+0,0.451,"D Piedmont Div 2",20,1,17,2
+6,0.453,"D Plaza Div 1",4,4,0,0
+5,0.453,"D Plaza Div 1",32,27,0,5
+4,0.453,"D Plaza Div 1",89,46,31,12
+3,0.453,"D Plaza Div 1",109,62,30,17
+2,0.453,"D Plaza Div 1",136,50,67,19
+1,0.453,"D Plaza Div 1",54,8,45,1
+0,0.453,"D Plaza Div 1",15,0,15,0
+6,0.418,"D Plaza Div 2",2,2,0,0
+5,0.418,"D Plaza Div 2",14,14,0,0
+4,0.418,"D Plaza Div 2",67,49,10,8
+3,0.418,"D Plaza Div 2",147,82,40,25
+2,0.418,"D Plaza Div 2",120,36,66,18
+1,0.418,"D Plaza Div 2",79,10,56,13
+0,0.418,"D Plaza Div 2",14,0,14,0
+6,0.472,"D Prairie Div 1",12,12,0,0
+5,0.472,"D Prairie Div 1",47,39,4,4
+4,0.472,"D Prairie Div 1",126,85,27,14
+3,0.472,"D Prairie Div 1",153,76,61,16
+2,0.472,"D Prairie Div 1",159,42,95,22
+1,0.472,"D Prairie Div 1",69,10,48,11
+0,0.472,"D Prairie Div 1",19,1,15,3
+6,0.413,"D Prairie Div 2",3,3,0,0
+5,0.413,"D Prairie Div 2",19,18,1,0
+4,0.413,"D Prairie Div 2",85,67,9,9
+3,0.413,"D Prairie Div 2",152,74,48,30
+2,0.413,"D Prairie Div 2",165,56,79,30
+1,0.413,"D Prairie Div 2",105,13,73,19
+0,0.413,"D Prairie Div 2",14,0,14,0
+6,0.411,"D Seaboard Div 1",3,3,0,0
+5,0.411,"D Seaboard Div 1",26,23,0,3
+4,0.411,"D Seaboard Div 1",93,70,12,11
+3,0.411,"D Seaboard Div 1",154,88,45,21
+2,0.411,"D Seaboard Div 1",183,60,92,31
+1,0.411,"D Seaboard Div 1",97,12,69,16
+0,0.411,"D Seaboard Div 1",30,1,27,2
+6,0.413,"D Seaboard Div 2",4,2,0,2
+5,0.413,"D Seaboard Div 2",24,21,1,2
+4,0.413,"D Seaboard Div 2",92,74,6,12
+3,0.413,"D Seaboard Div 2",166,94,54,18
+2,0.413,"D Seaboard Div 2",169,55,95,19
+1,0.413,"D Seaboard Div 2",94,16,60,18
+0,0.413,"D Seaboard Div 2",33,0,30,3
+6,0.428,"D Sequoia Div 1",6,6,0,0
+5,0.428,"D Sequoia Div 1",35,30,2,3
+4,0.428,"D Sequoia Div 1",114,81,15,18
+3,0.428,"D Sequoia Div 1",203,108,73,22
+2,0.428,"D Sequoia Div 1",178,56,92,30
+1,0.428,"D Sequoia Div 1",124,24,89,11
+0,0.428,"D Sequoia Div 1",24,1,19,4
+6,0.429,"D Sequoia Div 2",2,2,0,0
+5,0.429,"D Sequoia Div 2",32,24,3,5
+4,0.429,"D Sequoia Div 2",98,80,10,8
+3,0.429,"D Sequoia Div 2",203,108,61,34
+2,0.429,"D Sequoia Div 2",164,59,93,12
+1,0.429,"D Sequoia Div 2",102,15,75,12
+0,0.429,"D Sequoia Div 2",22,0,21,1
+6,0.458,"D Sierra Div 1",3,3,0,0
+5,0.458,"D Sierra Div 1",39,39,0,0
+4,0.458,"D Sierra Div 1",142,107,24,11
+3,0.458,"D Sierra Div 1",181,87,74,20
+2,0.458,"D Sierra Div 1",169,43,102,24
+1,0.458,"D Sierra Div 1",79,13,57,9
+0,0.458,"D Sierra Div 1",20,1,19,0
+6,0.499,"D Sierra Div 2",8,8,0,0
+5,0.499,"D Sierra Div 2",44,40,0,4
+4,0.499,"D Sierra Div 2",138,85,38,15
+3,0.499,"D Sierra Div 2",201,90,78,33
+2,0.499,"D Sierra Div 2",134,28,83,23
+1,0.499,"D Sierra Div 2",55,5,38,12
+0,0.499,"D Sierra Div 2",3,0,2,1
+5,0.415,"D Skyline Div 1",37,34,1,2
+4,0.415,"D Skyline Div 1",95,76,15,4
+3,0.415,"D Skyline Div 1",177,97,52,28
+2,0.415,"D Skyline Div 1",178,57,95,26
+1,0.415,"D Skyline Div 1",116,19,81,16
+0,0.415,"D Skyline Div 1",26,1,21,4
+6,0.452,"D Skyline Div 2",5,5,0,0
+5,0.452,"D Skyline Div 2",40,38,1,1
+4,0.452,"D Skyline Div 2",102,74,21,7
+3,0.452,"D Skyline Div 2",194,95,72,27
+2,0.452,"D Skyline Div 2",154,38,92,24
+1,0.452,"D Skyline Div 2",86,14,61,11
+0,0.452,"D Skyline Div 2",14,0,12,2
+6,0.514,"D Sugarloaf Div 1",5,5,0,0
+5,0.514,"D Sugarloaf Div 1",49,43,4,2
+4,0.514,"D Sugarloaf Div 1",154,102,33,19
+3,0.514,"D Sugarloaf Div 1",168,60,76,32
+2,0.514,"D Sugarloaf Div 1",111,23,70,18
+1,0.514,"D Sugarloaf Div 1",44,5,36,3
+0,0.514,"D Sugarloaf Div 1",8,0,8,0
+6,0.467,"D Sugarloaf Div 2",11,11,0,0
+5,0.467,"D Sugarloaf Div 2",35,28,2,5
+4,0.467,"D Sugarloaf Div 2",109,66,27,16
+3,0.467,"D Sugarloaf Div 2",170,90,63,17
+2,0.467,"D Sugarloaf Div 2",126,35,70,21
+1,0.467,"D Sugarloaf Div 2",72,11,54,7
+0,0.467,"D Sugarloaf Div 2",16,0,14,2
+6,0.457,"D Tundra Div 1",4,4,0,0
+5,0.457,"D Tundra Div 1",41,35,4,2
+4,0.457,"D Tundra Div 1",131,100,13,18
+3,0.457,"D Tundra Div 1",167,76,64,27
+2,0.457,"D Tundra Div 1",190,55,108,27
+1,0.457,"D Tundra Div 1",80,11,58,11
+0,0.457,"D Tundra Div 1",12,0,11,1
+6,0.448,"D Tundra Div 2",6,6,0,0
+5,0.448,"D Tundra Div 2",37,29,2,6
+4,0.448,"D Tundra Div 2",100,73,15,12
+3,0.448,"D Tundra Div 2",185,86,69,30
+2,0.448,"D Tundra Div 2",166,52,89,25
+1,0.448,"D Tundra Div 2",82,11,58,13
+0,0.448,"D Tundra Div 2",16,0,16,0
+6,0.303,"E Alpine Div 1",1,1,0,0
+5,0.303,"E Alpine Div 1",10,9,1,0
+4,0.303,"E Alpine Div 1",63,53,2,8
+3,0.303,"E Alpine Div 1",123,76,34,13
+2,0.303,"E Alpine Div 1",174,87,60,27
+1,0.303,"E Alpine Div 1",213,57,109,47
+0,0.303,"E Alpine Div 1",96,4,61,31
+6,0.351,"E Alpine Div 2",2,2,0,0
+5,0.351,"E Alpine Div 2",15,14,0,1
+4,0.351,"E Alpine Div 2",57,52,2,3
+3,0.351,"E Alpine Div 2",144,93,29,22
+2,0.351,"E Alpine Div 2",210,85,85,40
+1,0.351,"E Alpine Div 2",138,25,89,24
+0,0.351,"E Alpine Div 2",54,1,37,16
+6,0.348,"E Arcadia Div 1",1,1,0,0
+5,0.348,"E Arcadia Div 1",8,8,0,0
+4,0.348,"E Arcadia Div 1",59,49,6,4
+3,0.348,"E Arcadia Div 1",150,103,34,13
+2,0.348,"E Arcadia Div 1",221,86,108,27
+1,0.348,"E Arcadia Div 1",145,37,84,24
+0,0.348,"E Arcadia Div 1",47,0,35,12
+6,0.306,"E Arcadia Div 2",1,1,0,0
+5,0.306,"E Arcadia Div 2",4,3,0,1
+4,0.306,"E Arcadia Div 2",50,40,1,9
+3,0.306,"E Arcadia Div 2",112,75,25,12
+2,0.306,"E Arcadia Div 2",210,106,68,36
+1,0.306,"E Arcadia Div 2",176,39,103,34
+0,0.306,"E Arcadia Div 2",78,3,53,22
+5,0.321,"E Archipelago Div 1",9,9,0,0
+4,0.321,"E Archipelago Div 1",35,27,3,5
+3,0.321,"E Archipelago Div 1",98,71,18,9
+2,0.321,"E Archipelago Div 1",151,63,57,31
+1,0.321,"E Archipelago Div 1",130,36,73,21
+0,0.321,"E Archipelago Div 1",50,5,35,10
+6,0.348,"E Archipelago Div 2",1,1,0,0
+5,0.348,"E Archipelago Div 2",11,11,0,0
+4,0.348,"E Archipelago Div 2",38,31,4,3
+3,0.348,"E Archipelago Div 2",119,84,23,12
+2,0.348,"E Archipelago Div 2",162,68,67,27
+1,0.348,"E Archipelago Div 2",126,21,86,19
+0,0.348,"E Archipelago Div 2",32,1,26,5
+5,0.324,"E Atlantic Div 1",10,10,0,0
+4,0.324,"E Atlantic Div 1",63,46,13,4
+3,0.324,"E Atlantic Div 1",146,99,25,22
+2,0.324,"E Atlantic Div 1",190,76,83,31
+1,0.324,"E Atlantic Div 1",193,50,93,50
+0,0.324,"E Atlantic Div 1",74,5,48,21
+6,0.338,"E Atlantic Div 2",2,2,0,0
+5,0.338,"E Atlantic Div 2",16,15,1,0
+4,0.338,"E Atlantic Div 2",60,53,3,4
+3,0.338,"E Atlantic Div 2",146,93,30,23
+2,0.338,"E Atlantic Div 2",190,87,71,32
+1,0.338,"E Atlantic Div 2",181,43,107,31
+0,0.338,"E Atlantic Div 2",62,4,46,12
+6,0.335,"E Badlands Div 1",1,1,0,0
+5,0.335,"E Badlands Div 1",19,19,0,0
+4,0.335,"E Badlands Div 1",71,51,8,12
+3,0.335,"E Badlands Div 1",165,105,38,22
+2,0.335,"E Badlands Div 1",238,97,87,54
+1,0.335,"E Badlands Div 1",211,55,116,40
+0,0.335,"E Badlands Div 1",74,2,60,12
+6,0.374,"E Badlands Div 2",3,3,0,0
+5,0.374,"E Badlands Div 2",28,27,1,0
+4,0.374,"E Badlands Div 2",88,69,12,7
+3,0.374,"E Badlands Div 2",192,111,54,27
+2,0.374,"E Badlands Div 2",234,100,104,30
+1,0.374,"E Badlands Div 2",159,35,97,27
+0,0.374,"E Badlands Div 2",60,2,47,11
+6,0.317,"E Bayou Div 1",1,1,0,0
+5,0.317,"E Bayou Div 1",9,8,1,0
+4,0.317,"E Bayou Div 1",61,53,6,2
+3,0.317,"E Bayou Div 1",121,79,21,21
+2,0.317,"E Bayou Div 1",229,93,82,54
+1,0.317,"E Bayou Div 1",190,45,99,46
+0,0.317,"E Bayou Div 1",76,2,59,15
+6,0.344,"E Bayou Div 2",1,1,0,0
+5,0.344,"E Bayou Div 2",19,18,0,1
+4,0.344,"E Bayou Div 2",65,47,12,6
+3,0.344,"E Bayou Div 2",136,90,31,15
+2,0.344,"E Bayou Div 2",233,103,97,33
+1,0.344,"E Bayou Div 2",169,41,101,27
+0,0.344,"E Bayou Div 2",58,2,44,12
+5,0.339,"E Cascade Div 1",12,12,0,0
+4,0.339,"E Cascade Div 1",62,51,6,5
+3,0.339,"E Cascade Div 1",156,108,34,14
+2,0.339,"E Cascade Div 1",199,95,77,27
+1,0.339,"E Cascade Div 1",170,34,105,31
+0,0.339,"E Cascade Div 1",62,3,44,15
+6,0.318,"E Cascade Div 2",2,2,0,0
+5,0.318,"E Cascade Div 2",8,8,0,0
+4,0.318,"E Cascade Div 2",50,43,2,5
+3,0.318,"E Cascade Div 2",138,94,32,12
+2,0.318,"E Cascade Div 2",189,96,65,28
+1,0.318,"E Cascade Div 2",193,48,103,42
+0,0.318,"E Cascade Div 2",68,5,46,17
+6,0.370,"E Central Div 1",5,5,0,0
+5,0.370,"E Central Div 1",30,29,0,1
+4,0.370,"E Central Div 1",93,75,5,13
+3,0.370,"E Central Div 1",163,92,41,30
+2,0.370,"E Central Div 1",190,76,84,30
+1,0.370,"E Central Div 1",161,41,96,24
+0,0.370,"E Central Div 1",71,1,58,12
+6,0.379,"E Central Div 2",2,2,0,0
+5,0.379,"E Central Div 2",28,27,0,1
+4,0.379,"E Central Div 2",97,70,13,14
+3,0.379,"E Central Div 2",140,76,34,30
+2,0.379,"E Central Div 2",193,71,73,49
+1,0.379,"E Central Div 2",158,33,89,36
+0,0.379,"E Central Div 2",44,4,36,4
+5,0.324,"E Coastal Div 1",12,12,0,0
+4,0.324,"E Coastal Div 1",44,37,5,2
+3,0.324,"E Coastal Div 1",99,65,25,9
+2,0.324,"E Coastal Div 1",157,65,55,37
+1,0.324,"E Coastal Div 1",144,41,67,36
+0,0.324,"E Coastal Div 1",54,4,34,16
+6,0.335,"E Coastal Div 2",1,1,0,0
+5,0.335,"E Coastal Div 2",11,11,0,0
+4,0.335,"E Coastal Div 2",46,35,5,6
+3,0.335,"E Coastal Div 2",113,72,24,17
+2,0.335,"E Coastal Div 2",172,76,61,35
+1,0.335,"E Coastal Div 2",134,28,80,26
+0,0.335,"E Coastal Div 2",52,4,36,12
+6,0.339,"E Continental Div 1",2,2,0,0
+5,0.339,"E Continental Div 1",12,10,0,2
+4,0.339,"E Continental Div 1",57,47,4,6
+3,0.339,"E Continental Div 1",158,102,31,25
+2,0.339,"E Continental Div 1",223,94,89,40
+1,0.339,"E Continental Div 1",165,32,101,32
+0,0.339,"E Continental Div 1",63,2,44,17
+6,0.338,"E Continental Div 2",1,1,0,0
+5,0.338,"E Continental Div 2",13,13,0,0
+4,0.338,"E Continental Div 2",76,64,7,5
+3,0.338,"E Continental Div 2",134,80,33,21
+2,0.338,"E Continental Div 2",208,94,81,33
+1,0.338,"E Continental Div 2",182,44,105,33
+0,0.338,"E Continental Div 2",64,2,50,12
+6,0.325,"E Corridor Div 1",1,1,0,0
+5,0.325,"E Corridor Div 1",10,10,0,0
+4,0.325,"E Corridor Div 1",54,45,3,6
+3,0.325,"E Corridor Div 1",128,78,29,21
+2,0.325,"E Corridor Div 1",207,100,74,33
+1,0.325,"E Corridor Div 1",168,36,98,34
+0,0.325,"E Corridor Div 1",66,0,50,16
+6,0.313,"E Corridor Div 2",1,1,0,0
+5,0.313,"E Corridor Div 2",6,6,0,0
+4,0.313,"E Corridor Div 2",54,44,5,5
+3,0.313,"E Corridor Div 2",115,72,22,21
+2,0.313,"E Corridor Div 2",196,104,62,30
+1,0.313,"E Corridor Div 2",162,43,95,24
+0,0.313,"E Corridor Div 2",79,4,57,18
+6,0.375,"E Fjord Div 1",1,1,0,0
+5,0.375,"E Fjord Div 1",19,16,2,1
+4,0.375,"E Fjord Div 1",79,69,7,3
+3,0.375,"E Fjord Div 1",163,88,44,31
+2,0.375,"E Fjord Div 1",183,71,80,32
+1,0.375,"E Fjord Div 1",129,27,79,23
+0,0.375,"E Fjord Div 1",48,3,37,8
+6,0.346,"E Fjord Div 2",1,1,0,0
+5,0.346,"E Fjord Div 2",22,22,0,0
+4,0.346,"E Fjord Div 2",70,59,7,4
+3,0.346,"E Fjord Div 2",126,80,37,9
+2,0.346,"E Fjord Div 2",183,78,81,24
+1,0.346,"E Fjord Div 2",156,42,89,25
+0,0.346,"E Fjord Div 2",67,2,47,18
+6,0.319,"E Frontier Div 1",1,1,0,0
+5,0.319,"E Frontier Div 1",9,9,0,0
+4,0.319,"E Frontier Div 1",51,45,1,5
+3,0.319,"E Frontier Div 1",144,93,23,28
+2,0.319,"E Frontier Div 1",216,93,82,41
+1,0.319,"E Frontier Div 1",180,46,104,30
+0,0.319,"E Frontier Div 1",77,2,57,18
+6,0.339,"E Frontier Div 2",1,1,0,0
+5,0.339,"E Frontier Div 2",17,16,0,1
+4,0.339,"E Frontier Div 2",53,43,5,5
+3,0.339,"E Frontier Div 2",160,108,32,20
+2,0.339,"E Frontier Div 2",216,83,89,44
+1,0.339,"E Frontier Div 2",162,37,91,34
+0,0.339,"E Frontier Div 2",67,2,49,16
+5,0.349,"E Glacier",13,13,0,0
+4,0.349,"E Glacier",79,60,3,16
+3,0.349,"E Glacier",138,95,29,14
+2,0.349,"E Glacier",206,88,90,28
+1,0.349,"E Glacier",146,42,84,20
+0,0.349,"E Glacier",64,5,45,14
+6,0.300,"E Highland Div 1",1,1,0,0
+5,0.300,"E Highland Div 1",4,4,0,0
+4,0.300,"E Highland Div 1",37,32,2,3
+3,0.300,"E Highland Div 1",137,91,27,19
+2,0.300,"E Highland Div 1",204,97,73,34
+1,0.300,"E Highland Div 1",208,62,105,41
+0,0.300,"E Highland Div 1",76,2,49,25
+5,0.271,"E Highland Div 2",6,6,0,0
+4,0.271,"E Highland Div 2",26,23,1,2
+3,0.271,"E Highland Div 2",110,87,15,8
+2,0.271,"E Highland Div 2",213,105,68,40
+1,0.271,"E Highland Div 2",218,56,115,47
+0,0.271,"E Highland Div 2",108,8,67,33
+5,0.330,"E Horizon Div 1",15,15,0,0
+4,0.330,"E Horizon Div 1",42,36,3,3
+3,0.330,"E Horizon Div 1",153,104,30,19
+2,0.330,"E Horizon Div 1",173,77,65,31
+1,0.330,"E Horizon Div 1",177,36,99,42
+0,0.330,"E Horizon Div 1",59,1,41,17
+6,0.332,"E Horizon Div 2",1,1,0,0
+5,0.332,"E Horizon Div 2",16,14,0,2
+4,0.332,"E Horizon Div 2",52,39,6,7
+3,0.332,"E Horizon Div 2",122,80,28,14
+2,0.332,"E Horizon Div 2",185,84,70,31
+1,0.332,"E Horizon Div 2",154,35,99,20
+0,0.332,"E Horizon Div 2",64,1,45,18
+6,0.334,"E Juniper",2,2,0,0
+5,0.334,"E Juniper",17,17,0,0
+4,0.334,"E Juniper",89,73,7,9
+3,0.334,"E Juniper",163,105,48,10
+2,0.334,"E Juniper",244,119,94,31
+1,0.334,"E Juniper",217,55,122,40
+0,0.334,"E Juniper",91,1,74,16
+5,0.322,"E Laguna Div 1",10,10,0,0
+4,0.322,"E Laguna Div 1",70,63,2,5
+3,0.322,"E Laguna Div 1",148,92,27,29
+2,0.322,"E Laguna Div 1",219,100,78,41
+1,0.322,"E Laguna Div 1",220,72,119,29
+0,0.322,"E Laguna Div 1",75,4,63,8
+6,0.362,"E Laguna Div 2",6,6,0,0
+5,0.362,"E Laguna Div 2",17,15,1,1
+4,0.362,"E Laguna Div 2",69,53,11,5
+3,0.362,"E Laguna Div 2",203,124,52,27
+2,0.362,"E Laguna Div 2",243,100,92,51
+1,0.362,"E Laguna Div 2",172,38,106,28
+0,0.362,"E Laguna Div 2",57,3,44,10
+6,0.338,"E Magnolia Div 1",1,1,0,0
+5,0.338,"E Magnolia Div 1",16,15,1,0
+4,0.338,"E Magnolia Div 1",82,66,11,5
+3,0.338,"E Magnolia Div 1",159,92,36,31
+2,0.338,"E Magnolia Div 1",240,104,89,47
+1,0.338,"E Magnolia Div 1",183,49,101,33
+0,0.338,"E Magnolia Div 1",86,3,61,22
+6,0.359,"E Magnolia Div 2",4,4,0,0
+5,0.359,"E Magnolia Div 2",23,21,0,2
+4,0.359,"E Magnolia Div 2",93,69,14,10
+3,0.359,"E Magnolia Div 2",169,106,42,21
+2,0.359,"E Magnolia Div 2",234,97,97,40
+1,0.359,"E Magnolia Div 2",182,37,104,41
+0,0.359,"E Magnolia Div 2",69,5,58,6
+6,0.351,"E Maritime Div 1",4,4,0,0
+5,0.351,"E Maritime Div 1",13,11,1,1
+4,0.351,"E Maritime Div 1",60,44,6,10
+3,0.351,"E Maritime Div 1",167,110,40,17
+2,0.351,"E Maritime Div 1",203,84,78,41
+1,0.351,"E Maritime Div 1",152,40,86,26
+0,0.351,"E Maritime Div 1",61,3,47,11
+5,0.304,"E Maritime Div 2",9,9,0,0
+4,0.304,"E Maritime Div 2",42,34,2,6
+3,0.304,"E Maritime Div 2",148,96,24,28
+2,0.304,"E Maritime Div 2",185,85,66,34
+1,0.304,"E Maritime Div 2",210,57,116,37
+0,0.304,"E Maritime Div 2",84,3,54,27
+6,0.324,"E Memorial Div 1",3,3,0,0
+5,0.324,"E Memorial Div 1",8,7,1,0
+4,0.324,"E Memorial Div 1",59,50,5,4
+3,0.324,"E Memorial Div 1",156,102,33,21
+2,0.324,"E Memorial Div 1",218,95,75,48
+1,0.324,"E Memorial Div 1",203,51,111,41
+0,0.324,"E Memorial Div 1",73,0,53,20
+6,0.305,"E Memorial Div 2",1,1,0,0
+5,0.305,"E Memorial Div 2",3,3,0,0
+4,0.305,"E Memorial Div 2",51,45,2,4
+3,0.305,"E Memorial Div 2",140,92,27,21
+2,0.305,"E Memorial Div 2",204,102,71,31
+1,0.305,"E Memorial Div 2",173,42,89,42
+0,0.305,"E Memorial Div 2",97,2,67,28
+5,0.301,"E Meridian Div 1",8,8,0,0
+4,0.301,"E Meridian Div 1",30,28,1,1
+3,0.301,"E Meridian Div 1",79,52,16,11
+2,0.301,"E Meridian Div 1",118,52,44,22
+1,0.301,"E Meridian Div 1",139,39,67,33
+0,0.301,"E Meridian Div 1",54,4,33,17
+5,0.336,"E Meridian Div 2",7,6,1,0
+4,0.336,"E Meridian Div 2",31,29,2,0
+3,0.336,"E Meridian Div 2",102,69,22,11
+2,0.336,"E Meridian Div 2",149,61,60,28
+1,0.336,"E Meridian Div 2",108,24,61,23
+0,0.336,"E Meridian Div 2",35,1,28,6
+6,0.347,"E Metro Div 1",2,2,0,0
+5,0.347,"E Metro Div 1",10,9,0,1
+4,0.347,"E Metro Div 1",43,39,2,2
+3,0.347,"E Metro Div 1",151,103,32,16
+2,0.347,"E Metro Div 1",185,78,76,31
+1,0.347,"E Metro Div 1",124,29,82,13
+0,0.347,"E Metro Div 1",53,3,39,11
+5,0.297,"E Metro Div 2",11,11,0,0
+4,0.297,"E Metro Div 2",33,32,0,1
+3,0.297,"E Metro Div 2",93,70,9,14
+2,0.297,"E Metro Div 2",188,88,79,21
+1,0.297,"E Metro Div 2",182,56,104,22
+0,0.297,"E Metro Div 2",68,3,43,22
+5,0.340,"E Midland Div 1",13,13,0,0
+4,0.340,"E Midland Div 1",65,57,5,3
+3,0.340,"E Midland Div 1",148,88,29,31
+2,0.340,"E Midland Div 1",207,84,83,40
+1,0.340,"E Midland Div 1",173,47,98,28
+0,0.340,"E Midland Div 1",59,5,44,10
+5,0.329,"E Midland Div 2",16,14,0,2
+4,0.329,"E Midland Div 2",43,39,1,3
+3,0.329,"E Midland Div 2",152,93,28,31
+2,0.329,"E Midland Div 2",229,101,81,47
+1,0.329,"E Midland Div 2",164,37,95,32
+0,0.329,"E Midland Div 2",70,0,53,17
+5,0.331,"E Morningstar Div 1",14,14,0,0
+4,0.331,"E Morningstar Div 1",53,40,7,6
+3,0.331,"E Morningstar Div 1",143,91,34,18
+2,0.331,"E Morningstar Div 1",223,108,71,44
+1,0.331,"E Morningstar Div 1",162,40,94,28
+0,0.331,"E Morningstar Div 1",69,3,54,12
+5,0.346,"E Morningstar Div 2",9,8,1,0
+4,0.346,"E Morningstar Div 2",69,60,8,1
+3,0.346,"E Morningstar Div 2",152,93,33,26
+2,0.346,"E Morningstar Div 2",199,89,75,35
+1,0.346,"E Morningstar Div 2",132,30,89,13
+0,0.346,"E Morningstar Div 2",69,1,55,13
+5,0.297,"E Pacific Div 1",7,7,0,0
+4,0.297,"E Pacific Div 1",27,21,1,5
+3,0.297,"E Pacific Div 1",114,74,25,15
+2,0.297,"E Pacific Div 1",146,79,40,27
+1,0.297,"E Pacific Div 1",168,44,92,32
+0,0.297,"E Pacific Div 1",68,0,49,19
+5,0.323,"E Pacific Div 2",8,7,0,1
+4,0.323,"E Pacific Div 2",34,29,3,2
+3,0.323,"E Pacific Div 2",123,82,26,15
+2,0.323,"E Pacific Div 2",177,78,74,25
+1,0.323,"E Pacific Div 2",137,33,73,31
+0,0.323,"E Pacific Div 2",55,2,39,14
+6,0.327,"E Piedmont Div 1",1,1,0,0
+5,0.327,"E Piedmont Div 1",17,17,0,0
+4,0.327,"E Piedmont Div 1",57,50,5,2
+3,0.327,"E Piedmont Div 1",134,89,31,14
+2,0.327,"E Piedmont Div 1",213,106,78,29
+1,0.327,"E Piedmont Div 1",203,39,126,38
+0,0.327,"E Piedmont Div 1",63,1,51,11
+5,0.323,"E Piedmont Div 2",13,13,0,0
+4,0.323,"E Piedmont Div 2",47,39,4,4
+3,0.323,"E Piedmont Div 2",140,95,28,17
+2,0.323,"E Piedmont Div 2",217,96,83,38
+1,0.323,"E Piedmont Div 2",182,53,95,34
+0,0.323,"E Piedmont Div 2",66,4,55,7
+6,0.356,"E Plaza",1,1,0,0
+5,0.356,"E Plaza",15,13,1,1
+4,0.356,"E Plaza",71,60,6,5
+3,0.356,"E Plaza",145,94,35,16
+2,0.356,"E Plaza",197,85,86,26
+1,0.356,"E Plaza",150,30,98,22
+0,0.356,"E Plaza",51,2,39,10
+6,0.337,"E Prairie Div 1",2,2,0,0
+5,0.337,"E Prairie Div 1",10,10,0,0
+4,0.337,"E Prairie Div 1",69,52,7,10
+3,0.337,"E Prairie Div 1",159,100,36,23
+2,0.337,"E Prairie Div 1",238,99,86,53
+1,0.337,"E Prairie Div 1",203,45,118,40
+0,0.337,"E Prairie Div 1",58,1,51,6
+6,0.328,"E Prairie Div 2",2,2,0,0
+5,0.328,"E Prairie Div 2",11,11,0,0
+4,0.328,"E Prairie Div 2",54,48,5,1
+3,0.328,"E Prairie Div 2",158,105,33,20
+2,0.328,"E Prairie Div 2",246,111,89,46
+1,0.328,"E Prairie Div 2",183,37,114,32
+0,0.328,"E Prairie Div 2",73,2,54,17
+5,0.319,"E Seaboard Div 1",8,8,0,0
+4,0.319,"E Seaboard Div 1",67,52,5,10
+3,0.319,"E Seaboard Div 1",146,97,29,20
+2,0.319,"E Seaboard Div 1",229,98,90,41
+1,0.319,"E Seaboard Div 1",187,45,98,44
+0,0.319,"E Seaboard Div 1",89,4,60,25
+5,0.327,"E Seaboard Div 2",10,10,0,0
+4,0.327,"E Seaboard Div 2",54,44,4,6
+3,0.327,"E Seaboard Div 2",157,110,30,17
+2,0.327,"E Seaboard Div 2",240,102,89,49
+1,0.327,"E Seaboard Div 2",189,49,114,26
+0,0.327,"E Seaboard Div 2",66,3,47,16
+6,0.334,"E Sequoia Div 1",1,1,0,0
+5,0.334,"E Sequoia Div 1",18,16,2,0
+4,0.334,"E Sequoia Div 1",46,41,3,2
+3,0.334,"E Sequoia Div 1",153,98,35,20
+2,0.334,"E Sequoia Div 1",176,82,66,28
+1,0.334,"E Sequoia Div 1",170,38,99,33
+0,0.334,"E Sequoia Div 1",65,2,52,11
+6,0.317,"E Sequoia Div 2",1,1,0,0
+5,0.317,"E Sequoia Div 2",7,6,1,0
+4,0.317,"E Sequoia Div 2",42,35,1,6
+3,0.317,"E Sequoia Div 2",133,78,27,28
+2,0.317,"E Sequoia Div 2",209,98,64,47
+1,0.317,"E Sequoia Div 2",178,37,99,42
+0,0.317,"E Sequoia Div 2",64,2,49,13
+5,0.336,"E Sierra Div 1",7,7,0,0
+4,0.336,"E Sierra Div 1",49,39,4,6
+3,0.336,"E Sierra Div 1",109,66,24,19
+2,0.336,"E Sierra Div 1",189,90,64,35
+1,0.336,"E Sierra Div 1",128,30,78,20
+0,0.336,"E Sierra Div 1",45,1,40,4
+6,0.380,"E Sierra Div 2",2,2,0,0
+5,0.380,"E Sierra Div 2",15,15,0,0
+4,0.380,"E Sierra Div 2",62,45,8,9
+3,0.380,"E Sierra Div 2",150,96,35,19
+2,0.380,"E Sierra Div 2",154,56,73,25
+1,0.380,"E Sierra Div 2",119,25,77,17
+0,0.380,"E Sierra Div 2",30,0,28,2
+6,0.349,"E Skyline Div 1",1,1,0,0
+5,0.349,"E Skyline Div 1",16,16,0,0
+4,0.349,"E Skyline Div 1",66,54,6,6
+3,0.349,"E Skyline Div 1",152,103,37,12
+2,0.349,"E Skyline Div 1",179,83,74,22
+1,0.349,"E Skyline Div 1",126,28,78,20
+0,0.349,"E Skyline Div 1",76,1,59,16
+6,0.313,"E Skyline Div 2",1,1,0,0
+5,0.313,"E Skyline Div 2",6,6,0,0
+4,0.313,"E Skyline Div 2",39,37,2,0
+3,0.313,"E Skyline Div 2",143,98,29,16
+2,0.313,"E Skyline Div 2",194,88,80,26
+1,0.313,"E Skyline Div 2",182,50,102,30
+0,0.313,"E Skyline Div 2",69,2,53,14
+6,0.365,"E Sugarloaf Div 1",1,1,0,0
+5,0.365,"E Sugarloaf Div 1",15,15,0,0
+4,0.365,"E Sugarloaf Div 1",68,58,6,4
+3,0.365,"E Sugarloaf Div 1",152,96,37,19
+2,0.365,"E Sugarloaf Div 1",189,73,83,33
+1,0.365,"E Sugarloaf Div 1",140,28,81,31
+0,0.365,"E Sugarloaf Div 1",41,5,29,7
+6,0.317,"E Sugarloaf Div 2",1,1,0,0
+5,0.317,"E Sugarloaf Div 2",6,6,0,0
+4,0.317,"E Sugarloaf Div 2",44,38,3,3
+3,0.317,"E Sugarloaf Div 2",121,82,13,26
+2,0.317,"E Sugarloaf Div 2",226,101,78,47
+1,0.317,"E Sugarloaf Div 2",162,33,96,33
+0,0.317,"E Sugarloaf Div 2",66,1,48,17
+5,0.307,"E Tundra Div 1",6,6,0,0
+4,0.307,"E Tundra Div 1",50,46,3,1
+3,0.307,"E Tundra Div 1",151,98,24,29
+2,0.307,"E Tundra Div 1",186,84,69,33
+1,0.307,"E Tundra Div 1",201,50,113,38
+0,0.307,"E Tundra Div 1",87,2,58,27
+6,0.367,"E Tundra Div 2",1,1,0,0
+5,0.367,"E Tundra Div 2",7,6,1,0
+4,0.367,"E Tundra Div 2",99,83,9,7
+3,0.367,"E Tundra Div 2",158,99,39,20
+2,0.367,"E Tundra Div 2",199,80,84,35
+1,0.367,"E Tundra Div 2",145,26,89,30
+0,0.367,"E Tundra Div 2",52,0,38,14
+6,0.447,"R Alpine Div 1",26,26,0,0
+5,0.447,"R Alpine Div 1",67,58,7,2
+4,0.447,"R Alpine Div 1",107,81,20,6
+3,0.447,"R Alpine Div 1",175,86,59,30
+2,0.447,"R Alpine Div 1",183,59,101,23
+1,0.447,"R Alpine Div 1",124,25,83,16
+0,0.447,"R Alpine Div 1",39,0,38,1
+6,0.467,"R Alpine Div 2",11,9,0,2
+5,0.467,"R Alpine Div 2",64,56,4,4
+4,0.467,"R Alpine Div 2",139,103,25,11
+3,0.467,"R Alpine Div 2",147,84,57,6
+2,0.467,"R Alpine Div 2",140,47,74,19
+1,0.467,"R Alpine Div 2",98,16,67,15
+0,0.467,"R Alpine Div 2",29,1,25,3
+6,0.453,"R Arcadia Div 1",7,7,0,0
+5,0.453,"R Arcadia Div 1",44,36,3,5
+4,0.453,"R Arcadia Div 1",132,89,24,19
+3,0.453,"R Arcadia Div 1",191,98,62,31
+2,0.453,"R Arcadia Div 1",126,34,76,16
+1,0.453,"R Arcadia Div 1",99,15,75,9
+0,0.453,"R Arcadia Div 1",31,0,19,12
+6,0.406,"R Arcadia Div 2",4,2,0,2
+5,0.406,"R Arcadia Div 2",29,29,0,0
+4,0.406,"R Arcadia Div 2",101,68,18,15
+3,0.406,"R Arcadia Div 2",144,88,44,12
+2,0.406,"R Arcadia Div 2",162,72,74,16
+1,0.406,"R Arcadia Div 2",101,10,80,11
+0,0.406,"R Arcadia Div 2",46,2,42,2
+6,0.425,"R Archipelago",17,17,0,0
+5,0.425,"R Archipelago",79,67,4,8
+4,0.425,"R Archipelago",139,104,25,10
+3,0.425,"R Archipelago",165,89,52,24
+2,0.425,"R Archipelago",182,70,85,27
+1,0.425,"R Archipelago",160,26,118,16
+0,0.425,"R Archipelago",70,4,55,11
+6,0.479,"R Atlantic Div 1",11,11,0,0
+5,0.479,"R Atlantic Div 1",48,43,2,3
+4,0.479,"R Atlantic Div 1",139,89,28,22
+3,0.479,"R Atlantic Div 1",161,80,66,15
+2,0.479,"R Atlantic Div 1",123,52,61,10
+1,0.479,"R Atlantic Div 1",76,16,53,7
+0,0.479,"R Atlantic Div 1",22,3,18,1
+6,0.403,"R Atlantic Div 2",3,3,0,0
+5,0.403,"R Atlantic Div 2",38,35,0,3
+4,0.403,"R Atlantic Div 2",76,59,11,6
+3,0.403,"R Atlantic Div 2",166,90,46,30
+2,0.403,"R Atlantic Div 2",142,43,72,27
+1,0.403,"R Atlantic Div 2",98,25,61,12
+0,0.403,"R Atlantic Div 2",53,4,47,2
+6,0.397,"R Badlands Div 1",5,5,0,0
+5,0.397,"R Badlands Div 1",34,29,0,5
+4,0.397,"R Badlands Div 1",92,72,15,5
+3,0.397,"R Badlands Div 1",137,85,37,15
+2,0.397,"R Badlands Div 1",143,51,66,26
+1,0.397,"R Badlands Div 1",130,23,89,18
+0,0.397,"R Badlands Div 1",44,0,43,1
+6,0.442,"R Badlands Div 2",12,12,0,0
+5,0.442,"R Badlands Div 2",51,47,3,1
+4,0.442,"R Badlands Div 2",93,62,19,12
+3,0.442,"R Badlands Div 2",138,80,40,18
+2,0.442,"R Badlands Div 2",137,54,70,13
+1,0.442,"R Badlands Div 2",98,17,72,9
+0,0.442,"R Badlands Div 2",31,0,28,3
+6,0.393,"R Bayou Div 1",3,3,0,0
+5,0.393,"R Bayou Div 1",26,24,1,1
+4,0.393,"R Bayou Div 1",73,55,11,7
+3,0.393,"R Bayou Div 1",128,74,33,21
+2,0.393,"R Bayou Div 1",153,58,74,21
+1,0.393,"R Bayou Div 1",115,25,76,14
+0,0.393,"R Bayou Div 1",30,1,23,6
+6,0.462,"R Bayou Div 2",4,4,0,0
+5,0.462,"R Bayou Div 2",37,34,3,0
+4,0.462,"R Bayou Div 2",78,55,15,8
+3,0.462,"R Bayou Div 2",104,63,31,10
+2,0.462,"R Bayou Div 2",108,36,57,15
+1,0.462,"R Bayou Div 2",46,10,34,2
+0,0.462,"R Bayou Div 2",18,3,12,3
+6,0.427,"R Cascade",6,6,0,0
+5,0.427,"R Cascade",50,44,5,1
+4,0.427,"R Cascade",112,94,11,7
+3,0.427,"R Cascade",182,106,59,17
+2,0.427,"R Cascade",172,78,77,17
+1,0.427,"R Cascade",121,26,81,14
+0,0.427,"R Cascade",38,3,27,8
+6,0.505,"R Central Div 1",25,24,0,1
+5,0.505,"R Central Div 1",78,63,5,10
+4,0.505,"R Central Div 1",117,74,36,7
+3,0.505,"R Central Div 1",107,49,48,10
+2,0.505,"R Central Div 1",117,30,75,12
+1,0.505,"R Central Div 1",72,10,54,8
+0,0.505,"R Central Div 1",24,0,22,2
+6,0.445,"R Central Div 2",8,8,0,0
+5,0.445,"R Central Div 2",47,40,6,1
+4,0.445,"R Central Div 2",97,72,15,10
+3,0.445,"R Central Div 2",125,63,39,23
+2,0.445,"R Central Div 2",134,43,76,15
+1,0.445,"R Central Div 2",75,15,50,10
+0,0.445,"R Central Div 2",34,1,30,3
+6,0.424,"R Coastal",8,8,0,0
+5,0.424,"R Coastal",52,47,3,2
+4,0.424,"R Coastal",109,84,18,7
+3,0.424,"R Coastal",139,70,52,17
+2,0.424,"R Coastal",149,65,76,8
+1,0.424,"R Coastal",84,18,61,5
+0,0.424,"R Coastal",66,6,49,11
+6,0.425,"R Continental Div 1",3,3,0,0
+5,0.425,"R Continental Div 1",33,31,1,1
+4,0.425,"R Continental Div 1",88,66,17,5
+3,0.425,"R Continental Div 1",89,52,24,13
+2,0.425,"R Continental Div 1",102,34,59,9
+1,0.425,"R Continental Div 1",73,14,45,14
+0,0.425,"R Continental Div 1",35,1,30,4
+6,0.443,"R Continental Div 2",1,1,0,0
+5,0.443,"R Continental Div 2",26,23,1,2
+4,0.443,"R Continental Div 2",90,56,19,15
+3,0.443,"R Continental Div 2",113,68,35,10
+2,0.443,"R Continental Div 2",127,43,68,16
+1,0.443,"R Continental Div 2",49,8,36,5
+0,0.443,"R Continental Div 2",22,1,21,0
+5,0.386,"R Corridor Div 1",21,21,0,0
+4,0.386,"R Corridor Div 1",76,60,12,4
+3,0.386,"R Corridor Div 1",116,82,28,6
+2,0.386,"R Corridor Div 1",143,57,64,22
+1,0.386,"R Corridor Div 1",114,24,74,16
+0,0.386,"R Corridor Div 1",30,3,23,4
+6,0.425,"R Corridor Div 2",7,7,0,0
+5,0.425,"R Corridor Div 2",27,26,0,1
+4,0.425,"R Corridor Div 2",79,59,9,11
+3,0.425,"R Corridor Div 2",116,61,42,13
+2,0.425,"R Corridor Div 2",111,41,50,20
+1,0.425,"R Corridor Div 2",73,22,46,5
+0,0.425,"R Corridor Div 2",32,4,24,4
+6,0.479,"R Fjord",21,19,0,2
+5,0.479,"R Fjord",99,86,12,1
+4,0.479,"R Fjord",155,96,42,17
+3,0.479,"R Fjord",183,95,70,18
+2,0.479,"R Fjord",158,56,83,19
+1,0.479,"R Fjord",112,12,93,7
+0,0.479,"R Fjord",44,3,39,2
+6,0.463,"R Frontier",16,16,0,0
+5,0.463,"R Frontier",67,62,2,3
+4,0.463,"R Frontier",169,118,32,19
+3,0.463,"R Frontier",204,105,71,28
+2,0.463,"R Frontier",187,59,102,26
+1,0.463,"R Frontier",105,12,74,19
+0,0.463,"R Frontier",43,2,36,5
+6,0.473,"R Glacier",13,11,0,2
+5,0.473,"R Glacier",80,71,2,7
+4,0.473,"R Glacier",156,102,36,18
+3,0.473,"R Glacier",205,93,77,35
+2,0.473,"R Glacier",154,53,80,21
+1,0.473,"R Glacier",97,14,64,19
+0,0.473,"R Glacier",43,3,38,2
+6,0.404,"R Highland Div 1",6,5,0,1
+5,0.404,"R Highland Div 1",38,33,2,3
+4,0.404,"R Highland Div 1",93,67,16,10
+3,0.404,"R Highland Div 1",123,76,28,19
+2,0.404,"R Highland Div 1",141,55,70,16
+1,0.404,"R Highland Div 1",106,27,67,12
+0,0.404,"R Highland Div 1",52,2,41,9
+6,0.440,"R Highland Div 2",14,14,0,0
+5,0.440,"R Highland Div 2",46,43,1,2
+4,0.440,"R Highland Div 2",94,72,15,7
+3,0.440,"R Highland Div 2",108,57,40,11
+2,0.440,"R Highland Div 2",135,46,71,18
+1,0.440,"R Highland Div 2",88,15,62,11
+0,0.440,"R Highland Div 2",35,1,31,3
+6,0.433,"R Horizon",15,14,0,1
+5,0.433,"R Horizon",50,46,2,2
+4,0.433,"R Horizon",111,82,22,7
+3,0.433,"R Horizon",140,75,44,21
+2,0.433,"R Horizon",155,51,77,27
+1,0.433,"R Horizon",85,18,57,10
+0,0.433,"R Horizon",60,0,52,8
+6,0.468,"R Juniper",31,31,0,0
+5,0.468,"R Juniper",83,66,11,6
+4,0.468,"R Juniper",149,97,31,21
+3,0.468,"R Juniper",191,96,65,30
+2,0.468,"R Juniper",181,53,95,33
+1,0.468,"R Juniper",118,24,82,12
+0,0.468,"R Juniper",49,2,41,6
+6,0.376,"R Laguna Div 1",7,7,0,0
+5,0.376,"R Laguna Div 1",37,35,1,1
+4,0.376,"R Laguna Div 1",103,77,12,14
+3,0.376,"R Laguna Div 1",160,98,44,18
+2,0.376,"R Laguna Div 1",238,87,116,35
+1,0.376,"R Laguna Div 1",169,39,102,28
+0,0.376,"R Laguna Div 1",67,1,50,16
+6,0.456,"R Laguna Div 2",14,12,0,2
+5,0.456,"R Laguna Div 2",57,49,6,2
+4,0.456,"R Laguna Div 2",164,121,29,14
+3,0.456,"R Laguna Div 2",202,107,61,34
+2,0.456,"R Laguna Div 2",184,47,107,30
+1,0.456,"R Laguna Div 2",117,10,93,14
+0,0.456,"R Laguna Div 2",36,3,29,4
+6,0.418,"R Magnolia Div 1",2,2,0,0
+5,0.418,"R Magnolia Div 1",27,24,1,2
+4,0.418,"R Magnolia Div 1",97,68,13,16
+3,0.418,"R Magnolia Div 1",158,90,42,26
+2,0.418,"R Magnolia Div 1",139,50,65,24
+1,0.418,"R Magnolia Div 1",93,20,61,12
+0,0.418,"R Magnolia Div 1",34,2,28,4
+6,0.455,"R Magnolia Div 2",3,3,0,0
+5,0.455,"R Magnolia Div 2",58,52,1,5
+4,0.455,"R Magnolia Div 2",99,77,16,6
+3,0.455,"R Magnolia Div 2",153,75,52,26
+2,0.455,"R Magnolia Div 2",128,43,72,13
+1,0.455,"R Magnolia Div 2",87,17,60,10
+0,0.455,"R Magnolia Div 2",24,1,23,0
+6,0.495,"R Maritime Div 1",8,8,0,0
+5,0.495,"R Maritime Div 1",63,54,4,5
+4,0.495,"R Maritime Div 1",125,78,30,17
+3,0.495,"R Maritime Div 1",136,69,54,13
+2,0.495,"R Maritime Div 1",125,26,89,10
+1,0.495,"R Maritime Div 1",59,13,40,6
+0,0.495,"R Maritime Div 1",16,0,13,3
+6,0.465,"R Maritime Div 2",14,10,0,4
+5,0.465,"R Maritime Div 2",71,58,5,8
+4,0.465,"R Maritime Div 2",75,55,16,4
+3,0.465,"R Maritime Div 2",96,54,37,5
+2,0.465,"R Maritime Div 2",109,41,62,6
+1,0.465,"R Maritime Div 2",76,25,42,9
+0,0.465,"R Maritime Div 2",32,5,19,8
+6,0.437,"R Memorial Div 1",5,5,0,0
+5,0.437,"R Memorial Div 1",31,28,2,1
+4,0.437,"R Memorial Div 1",78,54,14,10
+3,0.437,"R Memorial Div 1",120,62,40,18
+2,0.437,"R Memorial Div 1",117,38,68,11
+1,0.437,"R Memorial Div 1",57,12,35,10
+0,0.437,"R Memorial Div 1",30,0,28,2
+6,0.516,"R Memorial Div 2",13,12,0,1
+5,0.516,"R Memorial Div 2",63,48,2,13
+4,0.516,"R Memorial Div 2",99,55,27,17
+3,0.516,"R Memorial Div 2",113,57,44,12
+2,0.516,"R Memorial Div 2",88,20,59,9
+1,0.516,"R Memorial Div 2",50,4,42,4
+0,0.516,"R Memorial Div 2",11,0,11,0
+6,0.486,"R Meridian Div 1",15,15,0,0
+5,0.486,"R Meridian Div 1",51,47,2,2
+4,0.486,"R Meridian Div 1",139,98,25,16
+3,0.486,"R Meridian Div 1",186,78,80,28
+2,0.486,"R Meridian Div 1",128,39,74,15
+1,0.486,"R Meridian Div 1",68,8,54,6
+0,0.486,"R Meridian Div 1",25,1,21,3
+6,0.394,"R Meridian Div 2",7,7,0,0
+5,0.394,"R Meridian Div 2",37,33,2,2
+4,0.394,"R Meridian Div 2",98,75,18,5
+3,0.394,"R Meridian Div 2",130,77,40,13
+2,0.394,"R Meridian Div 2",159,68,71,20
+1,0.394,"R Meridian Div 2",118,29,72,17
+0,0.394,"R Meridian Div 2",62,2,49,11
+6,0.473,"R Metro Div 1",14,14,0,0
+5,0.473,"R Metro Div 1",70,58,3,9
+4,0.473,"R Metro Div 1",112,77,26,9
+3,0.473,"R Metro Div 1",100,50,49,1
+2,0.473,"R Metro Div 1",121,41,67,13
+1,0.473,"R Metro Div 1",70,10,53,7
+0,0.473,"R Metro Div 1",39,1,33,5
+6,0.388,"R Metro Div 2",14,14,0,0
+5,0.388,"R Metro Div 2",25,19,3,3
+4,0.388,"R Metro Div 2",53,47,2,4
+3,0.388,"R Metro Div 2",97,63,22,12
+2,0.388,"R Metro Div 2",111,43,53,15
+1,0.388,"R Metro Div 2",95,26,57,12
+0,0.388,"R Metro Div 2",47,6,35,6
+6,0.434,"R Midland Div 1",4,4,0,0
+5,0.434,"R Midland Div 1",36,32,0,4
+4,0.434,"R Midland Div 1",103,77,10,16
+3,0.434,"R Midland Div 1",164,80,61,23
+2,0.434,"R Midland Div 1",152,50,72,30
+1,0.434,"R Midland Div 1",91,13,71,7
+0,0.434,"R Midland Div 1",27,2,21,4
+6,0.460,"R Midland Div 2",5,5,0,0
+5,0.460,"R Midland Div 2",58,50,5,3
+4,0.460,"R Midland Div 2",98,56,27,15
+3,0.460,"R Midland Div 2",142,79,46,17
+2,0.460,"R Midland Div 2",106,40,51,15
+1,0.460,"R Midland Div 2",79,15,58,6
+0,0.460,"R Midland Div 2",30,1,27,2
+6,0.428,"R Morningstar",4,4,0,0
+5,0.428,"R Morningstar",50,46,0,4
+4,0.428,"R Morningstar",132,95,27,10
+3,0.428,"R Morningstar",199,110,62,27
+2,0.428,"R Morningstar",195,74,87,34
+1,0.428,"R Morningstar",108,18,75,15
+0,0.428,"R Morningstar",51,4,43,4
+6,0.381,"R Pacific",4,4,0,0
+5,0.381,"R Pacific",31,28,2,1
+4,0.381,"R Pacific",83,73,7,3
+3,0.381,"R Pacific",140,82,46,12
+2,0.381,"R Pacific",160,69,73,18
+1,0.381,"R Pacific",126,33,81,12
+0,0.381,"R Pacific",58,6,42,10
+6,0.423,"R Piedmont Div 1",6,6,0,0
+5,0.423,"R Piedmont Div 1",51,49,1,1
+4,0.423,"R Piedmont Div 1",60,44,10,6
+3,0.423,"R Piedmont Div 1",101,50,39,12
+2,0.423,"R Piedmont Div 1",119,55,50,14
+1,0.423,"R Piedmont Div 1",84,16,58,10
+0,0.423,"R Piedmont Div 1",35,4,24,7
+6,0.429,"R Piedmont Div 2",8,8,0,0
+5,0.429,"R Piedmont Div 2",32,28,2,2
+4,0.429,"R Piedmont Div 2",91,62,16,13
+3,0.429,"R Piedmont Div 2",123,66,37,20
+2,0.429,"R Piedmont Div 2",106,33,56,17
+1,0.429,"R Piedmont Div 2",91,16,61,14
+0,0.429,"R Piedmont Div 2",32,1,25,6
+6,0.441,"R Plaza",10,10,0,0
+5,0.441,"R Plaza",65,58,2,5
+4,0.441,"R Plaza",153,115,25,13
+3,0.441,"R Plaza",201,102,75,24
+2,0.441,"R Plaza",193,72,103,18
+1,0.441,"R Plaza",117,23,79,15
+0,0.441,"R Plaza",55,2,44,9
+6,0.396,"R Prairie",12,12,0,0
+5,0.396,"R Prairie",49,45,4,0
+4,0.396,"R Prairie",93,73,18,2
+3,0.396,"R Prairie",178,100,58,20
+2,0.396,"R Prairie",177,74,77,26
+1,0.396,"R Prairie",148,25,96,27
+0,0.396,"R Prairie",69,3,57,9
+6,0.416,"R Seaboard Div 1",6,6,0,0
+5,0.416,"R Seaboard Div 1",40,39,1,0
+4,0.416,"R Seaboard Div 1",94,71,11,12
+3,0.416,"R Seaboard Div 1",150,89,41,20
+2,0.416,"R Seaboard Div 1",152,43,83,26
+1,0.416,"R Seaboard Div 1",97,16,74,7
+0,0.416,"R Seaboard Div 1",47,1,41,5
+6,0.439,"R Seaboard Div 2",8,8,0,0
+5,0.439,"R Seaboard Div 2",48,44,2,2
+4,0.439,"R Seaboard Div 2",84,68,10,6
+3,0.439,"R Seaboard Div 2",145,79,57,9
+2,0.439,"R Seaboard Div 2",131,50,63,18
+1,0.439,"R Seaboard Div 2",81,21,52,8
+0,0.439,"R Seaboard Div 2",35,3,31,1
+6,0.449,"R Sequoia",20,18,0,2
+5,0.449,"R Sequoia",50,42,2,6
+4,0.449,"R Sequoia",109,76,21,12
+3,0.449,"R Sequoia",156,72,55,29
+2,0.449,"R Sequoia",153,51,72,30
+1,0.449,"R Sequoia",108,16,76,16
+0,0.449,"R Sequoia",31,0,28,3
+6,0.426,"R Sierra",6,6,0,0
+5,0.426,"R Sierra",70,63,3,4
+4,0.426,"R Sierra",121,92,24,5
+3,0.426,"R Sierra",198,109,63,26
+2,0.426,"R Sierra",178,54,92,32
+1,0.426,"R Sierra",122,29,83,10
+0,0.426,"R Sierra",65,2,50,13
+6,0.411,"R Skyline Div 1",2,2,0,0
+5,0.411,"R Skyline Div 1",25,25,0,0
+4,0.411,"R Skyline Div 1",84,66,10,8
+3,0.411,"R Skyline Div 1",116,61,36,19
+2,0.411,"R Skyline Div 1",124,42,68,14
+1,0.411,"R Skyline Div 1",80,17,49,14
+0,0.411,"R Skyline Div 1",35,4,24,7
+6,0.455,"R Skyline Div 2",19,17,0,2
+5,0.455,"R Skyline Div 2",26,24,1,1
+4,0.455,"R Skyline Div 2",64,40,12,12
+3,0.455,"R Skyline Div 2",106,56,39,11
+2,0.455,"R Skyline Div 2",101,45,45,11
+1,0.455,"R Skyline Div 2",64,18,43,3
+0,0.455,"R Skyline Div 2",17,3,14,0
+6,0.445,"R Sugarloaf Div 1",24,22,0,2
+5,0.445,"R Sugarloaf Div 1",31,25,5,1
+4,0.445,"R Sugarloaf Div 1",82,64,13,5
+3,0.445,"R Sugarloaf Div 1",121,64,45,12
+2,0.445,"R Sugarloaf Div 1",103,35,54,14
+1,0.445,"R Sugarloaf Div 1",87,14,60,13
+0,0.445,"R Sugarloaf Div 1",33,2,30,1
+6,0.413,"R Sugarloaf Div 2",7,7,0,0
+5,0.413,"R Sugarloaf Div 2",22,21,1,0
+4,0.413,"R Sugarloaf Div 2",66,53,10,3
+3,0.413,"R Sugarloaf Div 2",118,66,36,16
+2,0.413,"R Sugarloaf Div 2",104,38,54,12
+1,0.413,"R Sugarloaf Div 2",88,20,59,9
+0,0.413,"R Sugarloaf Div 2",25,0,25,0
+6,0.376,"R Tundra",7,7,0,0
+5,0.376,"R Tundra",30,28,1,1
+4,0.376,"R Tundra",100,84,11,5
+3,0.376,"R Tundra",143,100,30,13
+2,0.376,"R Tundra",187,62,96,29
+1,0.376,"R Tundra",133,19,83,31
+0,0.376,"R Tundra",78,2,59,17
